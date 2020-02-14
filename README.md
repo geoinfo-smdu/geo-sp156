@@ -16,7 +16,7 @@ O objetivo princpal é desenvolver uma metodologia e documentar o conhecimento q
 
 ## Metodologia
 
-Inicialmente vamos utilzar o Python, bilbioteca Pandas e GeoPandas para tratar, epacializar e analisar os dados obtidos, descritos no notebook: [Primeiros processamentos e análises](Primeiros Prcessamentos e Análises.ipynb) Em um segundo momento o desafio vai ser publicar esses dados que são diversos em relação ao espaçõ tanto quanto a classificação e a imensidão de temas e possibilidades.
+Inicialmente vamos utilzar o Python, bilbioteca Pandas e GeoPandas para tratar, epacializar e analisar os dados obtidos, descritos no notebook: [Primeiros processamentos e análises](https://github.com/geoinfo-smdu/geo-sp156/blob/sp156/Primeiros%20Prcessamentos%20e%20An%C3%A1lises.ipynb) Em um segundo momento o desafio vai ser publicar esses dados que são diversos em relação ao espaçõ tanto quanto a classificação e a imensidão de temas e possibilidades.
 Existe ainda um outro grande desafio que não devemos e nem podemos deixar para trás que é a cronologia das ocorrências. Elas podem estar ligadas a fenomenos sazonais da cidade, como período de chuvas e estiagem, assim como datas festivas, férias, temperatura entre outros tantos.
 
 ## Convenções 
