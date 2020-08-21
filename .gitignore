@@ -1,3 +1,4 @@
 /download
 /resultados/*.geojson
 /resultados/*.gpkg
+/tmp

@@ -1,111 +1,149 @@
 Tema,Serviço,Canal
-Animais,Avaliação de animal agressor em vias públicas,435
-Animais,Avaliação de animal em sofrimento sem proprietário para eutanásia (morte sem dor),569
-Animais,Avaliação de animal invasor de instituições públicas (cães e gatos),223
-Animais,Avaliação de local com pernilongo/mosquito,671
-Animais,Denunciar condições inadequadas de criação,1844
-Animais,Denunciar local com escorpião,606
-Animais,Denunciar local com roedores/ratos,2235
-Animais,Denúncia de local com pombos,357
-Animais,Reclamação de local com morcego,459
-Animais,Remoção de animal morto em via pública,1151
-Animais,Vistoria de colmeia/vespeiro instalado,3628
-Bilhete Único,Bilhete Único - Falha na recarga,212
-Bilhete Único,Comunicação de erro em cobrança de integração (ônibus e metrô ou trem),1087
-Bilhete Único,Comunicação de problema em posto de recarga,567
-Cidadania e assistência social,Serviço Especializado de Abordagem Social às Pessoas em Situação de Rua - SEAS,33877
-Comércio e serviços,Denunciar comércio que se manteve aberto durante a crise do Coronavirus,7016
-Comércio e serviços,"Fiscalização de comércio, serviço e indústria   funcionamento e operação",1585
-Comércio e serviços,Fiscalização em estabelecimento com venda de bebida alcoólica entre 1h e 5h da manhã,374
-Lixo e limpeza,Cata Bagulho - Reclamação de não retirada de material,1050
-Lixo e limpeza,Denúncia de colocação de lixo domiciliar fora do horário de coleta,483
-Lixo e limpeza,Fiscalizar descarte irregular de entulho e outros resíduos em área pública,2011
-Lixo e limpeza,Instalação de contêiner para coleta de lixo domiciliar,255
-Lixo e limpeza,Instalação e remoção de lixeira,2309
-Lixo e limpeza,Lavagem especial de locais públicos,577
-Lixo e limpeza,Limpar lixeiras públicas,329
-Lixo e limpeza,Limpeza da via pública após enchentes ou eventos,621
-Lixo e limpeza,Reclamação de falta de varrição,3701
-Lixo e limpeza,Reclamação de não remoção dos sacos de varrição,427
-Lixo e limpeza,Reclamações sobre coleta de lixo domiciliar,2001
-Lixo e limpeza,Reclamações sobre coleta seletiva,341
-Lixo e limpeza,Remoção de entulho em via pública,7983
-Lixo e limpeza,Remoção de grandes objetos em vias públicas,15608
-Meio Ambiente,Limpeza de córrego,997
-Meio Ambiente,Poda ou remoção de árvores ou vegetação em parques,454
-"Obras, imóveis e habitação",Fiscalização de obra e reforma em imóvel particular,3364
-Ouvidoria Geral do Município,Denúncia,399
-Ouvidoria Geral do Município,Reclamação,6959
-Ouvidoria Geral do Município,Solicitação,425
-Rua e bairro,Capinação em guias e sarjetas,5791
-Rua e bairro,Denunciar despejo irregular de água usada ou esgoto,645
-Rua e bairro,Denunciar falta de limpeza de terrenos e imóveis particulares,3101
+Animais,Avaliação de animal em sofrimento sem proprietário para eutanásia (morte sem dor),789
+Animais,Avisar sobre animal agressor em vias públicas,623
+Animais,Cães e gatos invasores de instituições públicas - Solicitar avaliação,317
+Animais,Denunciar condições inadequadas de criação,2868
+Animais,Denunciar local com escorpião,805
+Animais,Denunciar local com roedores/ratos,3280
+Animais,Denúncia de local com pombos,551
+Animais,Morcego - Reclamar sobre local com morcego,794
+Animais,Remoção de animal morto em via pública,1684
+Animais,Resgate de animais silvestres acidentados ou feridos,246
+Animais,Solicitar avaliação de local com pernilongo/mosquito,899
+Animais,Vistoria de colmeia/vespeiro instalado,4739
+Bilhete Único,Bilhete Único - Falha na recarga,293
+Bilhete Único,Comunicação de erro em cobrança de integração (ônibus e metrô ou trem),1455
+Bilhete Único,Comunicação de problema em posto de recarga,632
+Cidadania e assistência social,Denunciar irregularidade nos serviços para população em situação de rua,385
+Cidadania e assistência social,Programa Bolsa Família -  Denúncia de cadastramento/recebimento de benefício indevido,241
+Cidadania e assistência social,Serviço Especializado de Abordagem Social às Pessoas em Situação de Rua - SEAS,55444
+Comércio e serviços,"Comércio, serviço e indústria - solicitar fiscalização de funcionamento",2392
+Comércio e serviços,Denunciar estabelecimento que não fornece álcool em gel ou permite entrada sem máscara durante a crise do Coronavírus,1454
+Comércio e serviços,Denunciar estabelecimento que se manteve aberto durante a crise do Coronavirus,37591
+Comércio e serviços,Solicitar fiscalização de estabelecimento com venda de bebida alcoólica entre 1h e 5h da manhã,494
+Lixo e limpeza,Cata Bagulho - Reclamação de não retirada de material,1829
+Lixo e limpeza,Denunciar descarte irregular de entulho e outros resíduos em área pública,2943
+Lixo e limpeza,Denúncia de caçamba de entulho de obra/construção,264
+Lixo e limpeza,Denúncia de má conduta dos funcionários (motoristas /coletores),273
+Lixo e limpeza,Instalação de contêiner para coleta de lixo domiciliar,418
+Lixo e limpeza,Instalação de contêiner para coleta seletiva,271
+Lixo e limpeza,Instalação e remoção de lixeira,4166
+Lixo e limpeza,Lavagem especial de locais públicos,1272
+Lixo e limpeza,Limpar lixeiras públicas,686
+Lixo e limpeza,Limpeza da via pública após enchentes ou eventos,746
+Lixo e limpeza,Lixo domiciliar  Denunciar colocação de lixo fora do horário de coleta,715
+Lixo e limpeza,Reclamação de falta de limpeza de ruas após a feira,201
+Lixo e limpeza,Reclamação de falta de varrição,7313
+Lixo e limpeza,Reclamação de não remoção dos sacos de varrição,646
+Lixo e limpeza,Reclamações sobre coleta de lixo domiciliar,3109
+Lixo e limpeza,Reclamações sobre coleta de resíduos de serviços de saúde,384
+Lixo e limpeza,Reclamações sobre coleta seletiva,554
+Lixo e limpeza,Remoção de entulho em via pública,13573
+Lixo e limpeza,Remoção de grandes objetos em vias públicas,25562
+Lixo e limpeza,Remoção de propaganda irregular,245
+Lixo e limpeza,Solicitar fiscalização de feira livre,396
+Meio Ambiente,Córrego - solicitar limpeza,590
+Meio Ambiente,Limpeza de córrego,999
+Meio Ambiente,Manutenção e limpeza de parques públicos municipais,251
+Meio Ambiente,Poda ou remoção de árvores ou vegetação em parques,742
+"Obras, imóveis e habitação","Denunciar janela ou abertura a menos de 1,50m do vizinho",216
+"Obras, imóveis e habitação",Fiscalização de obra e reforma em imóvel particular,3367
+"Obras, imóveis e habitação",Solicitar fiscalização de obra e reforma em imóvel particular,3353
+Ouvidoria Geral do Município,Denúncia,604
+Ouvidoria Geral do Município,Elogio,211
+Ouvidoria Geral do Município,Reclamação,12974
+Ouvidoria Geral do Município,Solicitação,868
+Ouvidoria Geral do Município,Sugestão,207
+Rua e bairro,Acessibilidade - solicitar avaliação de obstáculo na calçada,1562
+Rua e bairro,Calçada particular - denunciar calçada danificada ou inexistente,1215
+Rua e bairro,Calçada pública - solicitar manutenção,742
+Rua e bairro,Capinação em guias e sarjetas,8420
+Rua e bairro,Denunciar despejo irregular de água usada ou esgoto,753
+Rua e bairro,Denunciar falta de limpeza de terrenos e imóveis particulares,4042
+Rua e bairro,Denunciar invasão de áreas municipais,863
+Rua e bairro,Denunciar loteamento irregular ou clandestino,326
 Rua e bairro,Denunciar poda ou remoção não autorizada de árvore,626
-Rua e bairro,"Denúncia de calçada particular irregular, danificada ou inexistente",873
-Rua e bairro,Denúncia de loteamento irregular ou clandestino,223
-Rua e bairro,Drenagem de água da chuva - Bueiros e bocas de lobo,2033
-Rua e bairro,Execução de serviços em árvore localizada em área pública,15745
-Rua e bairro,Fiscalização de ambulantes,1073
+Rua e bairro,Denúncia de loteamento irregular ou clandestino,254
+Rua e bairro,Drenagem de água da chuva - Bueiros e bocas de lobo,2326
+Rua e bairro,Execução de serviços em árvore localizada em área pública,15766
+Rua e bairro,"Guias, sarjetas e sarjetões - solicitar manutenção",3173
 Rua e bairro,Invasão de áreas municipais,611
-Rua e bairro,"Limpeza de bueiros, boca de lobo e poços de visita",5911
-Rua e bairro,Manutenção de calçadas em áreas públicas e praças,469
-Rua e bairro,"Manutenção de guias, sarjetas e sarjetões",1721
+Rua e bairro,"Limpeza de bueiros, boca de lobo e poços de visita",5914
 Rua e bairro,Manutenção de vielas e escadarias,420
 Rua e bairro,Nivelamento de vias de terra,376
-Rua e bairro,Obstáculo dificultando acessibilidade,1038
-Rua e bairro,Pintura de guias e postes,271
-Rua e bairro,Plantio de árvore em vias e áreas públicas,376
-Rua e bairro,Reclamação de poluição sonora - PSIU,4804
-Rua e bairro,Recuperar galerias de águas de chuvas (pluviais),765
-Rua e bairro,Reforma e revitalização de praças,501
-Rua e bairro,Roçada em praças e canteiro central,5138
-Rua e bairro,Tapa-buraco,38036
-Rua e bairro,Tapa-buraco em faixa exclusiva ou corredor de ônibus,1105
-Saúde,Denunciar local com acúmulo de água limpa e parada,3439
-Trânsito e Transporte,Ajuste do tempo de semáforo de veículos e pedestres,236
-Trânsito e Transporte,Avaliação da circulação e acesso de veículos e pedestres,1643
-Trânsito e Transporte,Avaliação de travessia de pedestres,365
-Trânsito e Transporte,Aviso de semáforo com problemas,1593
-Trânsito e Transporte,Denunciar reserva irregular de vaga,308
-Trânsito e Transporte,Fiscalização de veículo estacionado em local proibido,1293
-Trânsito e Transporte,Implantação de abrigo ou ponto de ônibus,357
-Trânsito e Transporte,Intensificar fiscalização de veículos em movimento,330
-Trânsito e Transporte,Intensificar fiscalização de veículos estacionados/parados irregularmente,511
-Trânsito e Transporte,Manutenção de placas de trânsito,740
-Trânsito e Transporte,Manutenção de sinalização horizontal (pintura de solo),606
-Trânsito e Transporte,"Manutenção, conserto e limpeza de ponto de ônibus",268
-Trânsito e Transporte,Remanejamento de ponto de ônibus,242
-Trânsito e Transporte,Remoção de veículo/carcaça abandonado na via pública,6816
-Trânsito e Transporte,SPTrans - Sugestão,563
-Trânsito e Transporte,Taxi / Aplicativos - Denúncia de conduta ou postura do condutor,212
-Trânsito e Transporte,Ônibus - Denúncia de alteração de itinerário ou ponto inicial/final,233
-Trânsito e Transporte,"Ônibus - Denúncia de conduta do motorista, cobrador ou fiscal",3963
-Trânsito e Transporte,Ônibus - Denúncia de direção inadequada ou perigosa de veículo,930
-Trânsito e Transporte,Ônibus - Denúncia de problemas no embarque/desembarque,2978
-Trânsito e Transporte,"Ônibus - Elogio ao motorista, cobrador ou fiscal",317
-Trânsito e Transporte,Ônibus - Manutenção do veículo em geral,508
-Trânsito e Transporte,Ônibus - Reclamação de demora na partida,318
-Trânsito e Transporte,Ônibus - Reclamação de descumprimento de partida no ponto inicial/final,879
-Trânsito e Transporte,Ônibus - Reclamação de intervalo excessivo da linha,4703
-Trânsito e Transporte,Ônibus - Reclamação de veículo com superlotação,370
-Urgência,Alagamento,280
-Urgência,Alarme disparado,955
-Urgência,Apoio a agente público,1074
-Urgência,Atitude Suspeita,256
-Urgência,Comércio irregular,1784
-Urgência,Crimes contra o meio ambiente,330
-Urgência,Desabamento,350
-Urgência,Deslizamento,459
-Urgência,Erosão,373
-Urgência,Infiltração,715
-Urgência,Inundação,282
-Urgência,Invasão,471
-Urgência,Ocorrências com animais silvestres,655
-Urgência,Outras ocorrências em escolas,232
-Urgência,Perturbação do sossego,3606
-Urgência,Queda de galho,924
-Urgência,Queda de árvore,1780
-Urgência,Rachadura de Edificação,785
-Urgência,Risco de desabamento,1030
-Urgência,Risco de deslizamento,325
-Urgência,Risco iminente de queda de árvore,1699
+Rua e bairro,Pintura de guias e postes,508
+Rua e bairro,Plantio de árvores em passeio público ou calçada,422
+Rua e bairro,Praça e canteiro central - solicitar roçada,2261
+Rua e bairro,"Praças - Solicitar manutenção de equipamentos (mesas, bancos e brinquedos)",240
+Rua e bairro,Praças - sugerir reforma e revitalização,715
+Rua e bairro,Reclamação de poluição sonora - PSIU,6813
+Rua e bairro,Recuperar galerias de águas de chuvas (pluviais),1077
+Rua e bairro,Roçada em praças e canteiro central,5139
+Rua e bairro,Solicitar fiscalização de ambulantes,1796
+Rua e bairro,"Solicitar limpeza de bueiros, boca de lobo e poços de visita",3019
+Rua e bairro,Sugerir instalação de equipamentos de ginástica na praça,213
+Rua e bairro,Tapa-buraco,55200
+Rua e bairro,Tapa-buraco em faixa exclusiva ou corredor de ônibus,1309
+Rua e bairro,Vielas e escadarias - solicitar manutenção,223
+Rua e bairro,Árvore - denunciar poda ou remoção não autorizada,497
+Rua e bairro,Árvore - solicitar manejo em área pública,10232
+Rua e bairro,Árvore em área interna - Comunicar poda à Prefeitura,230
+Rua e bairro,Árvore em área interna - Solicitar avaliação da Prefeitura,251
+Saúde,Denunciar local com acúmulo de água limpa e parada,4174
+Trânsito e Transporte,Aviso de semáforo com problemas,2589
+Trânsito e Transporte,Circulação de caminhões - Solicitar avaliação,231
+Trânsito e Transporte,Circulação e acesso de veículos e pessoas - Solicitar avaliação,2323
+Trânsito e Transporte,Criação/reativação de linha de ônibus,336
+Trânsito e Transporte,Denunciar reserva irregular de vaga,380
+Trânsito e Transporte,Fiscalização de veículo estacionado em local proibido,1907
+Trânsito e Transporte,Implantação de abrigo ou ponto de ônibus,451
+Trânsito e Transporte,Intensificar fiscalização de veículos em movimento,449
+Trânsito e Transporte,Intensificar fiscalização de veículos estacionados/parados irregularmente,773
+Trânsito e Transporte,Manutenção de placa com nome de rua,244
+Trânsito e Transporte,Manutenção de placas de trânsito,1098
+Trânsito e Transporte,"Manutenção, conserto e limpeza de ponto de ônibus",380
+Trânsito e Transporte,Remanejamento de ponto de ônibus,329
+Trânsito e Transporte,Remoção de veículo/carcaça abandonado na via pública,6817
+Trânsito e Transporte,SPTrans - Sugestão,784
+Trânsito e Transporte,Semáforo de veículos e pedestres - Sugerir ajuste de tempo,276
+Trânsito e Transporte,Sinalização horizontal apagada (pintura de solo)  Solicitar repintura,994
+Trânsito e Transporte,Solicitar remoção de veículo/carcaça abandonado na via pública,4096
+Trânsito e Transporte,Taxi / Aplicativos - Denúncia de conduta ou postura do condutor,235
+Trânsito e Transporte,Travessia de pedestres - Solicitar avaliação,477
+Trânsito e Transporte,Ônibus - Alteração de itinerário ou ponto inicial/final,261
+Trânsito e Transporte,Ônibus - Denúncia de alteração de itinerário ou ponto inicial/final,318
+Trânsito e Transporte,"Ônibus - Denúncia de conduta do motorista, cobrador ou fiscal",5423
+Trânsito e Transporte,Ônibus - Denúncia de direção inadequada ou perigosa de veículo,1279
+Trânsito e Transporte,Ônibus - Denúncia de problemas no embarque/desembarque,3808
+Trânsito e Transporte,"Ônibus - Elogio ao motorista, cobrador ou fiscal",391
+Trânsito e Transporte,Ônibus - Manutenção do veículo em geral,596
+Trânsito e Transporte,Ônibus - Reclamação de demora na partida,474
+Trânsito e Transporte,Ônibus - Reclamação de descumprimento de partida no ponto inicial/final,1291
+Trânsito e Transporte,Ônibus - Reclamação de intervalo excessivo da linha,6940
+Trânsito e Transporte,Ônibus - Reclamação de veículo com superlotação,661
+Urgência,Alagamento,297
+Urgência,Alarme disparado,1681
+Urgência,Ameaça,204
+Urgência,Apoio a agente público,1813
+Urgência,Atitude Suspeita,471
+Urgência,Comércio irregular,6780
+Urgência,Crimes contra o meio ambiente,1007
+Urgência,Desabamento,417
+Urgência,Descarte de entulho em flagrante,288
+Urgência,Deslizamento,488
+Urgência,Erosão,433
+Urgência,Infiltração,956
+Urgência,Inundação,299
+Urgência,Invasão,1307
+Urgência,Manifestação pública,3099
+Urgência,Ocorrências com Drogas,328
+Urgência,Ocorrências com animais silvestres,1079
+Urgência,Outras ocorrências em escolas,388
+Urgência,Perturbação do sossego,9373
+Urgência,Queda de galho,1201
+Urgência,Queda de árvore,2329
+Urgência,Rachadura de Edificação,1204
+Urgência,Risco de desabamento,1452
+Urgência,Risco de deslizamento,372
+Urgência,Risco iminente de queda de árvore,2605
+Urgência,[Solicitado pela Defesa Civil  uso interno] Remoção de galhos e troncos,231

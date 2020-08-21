@@ -1,0 +1,9 @@
+## Iniciando o processamento da espacialização dos Atentimentos do SP 156
+- 21/08/2020 16:38:13
+## Removendo serviços com menos de 200 ocorrências
+- Documentando serviços que ficarão de fora da visualização
+- salvando o resultado em ./resultados/hierarquia-de-visualizacao-abaixo-limite-200.csv
+- Documentando serviços com mais de 200 ocorrências visualização
+- salvando o resultado em ./resultados/hierarquia-de-visualizacao-limite-200.csv
+## Convertendo Lat/Long (epsg:4989) em UTM SIRGAS 2000 (epsg:31983)
+## Transformando Registros que contém Setor e Quadra em pontos de Centroide das respectivas feições
