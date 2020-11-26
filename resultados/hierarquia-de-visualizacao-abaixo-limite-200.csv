@@ -1,200 +1,156 @@
 Tema,Serviço,Canal
-Acessibilidade,Acessibilidade - Denunciar falta de móveis adequados,2
-Acessibilidade,Acessibilidade - Solicitar fiscalização em edificações,60
-Acessibilidade,Bilhete Único - Denúncia de uso irregular,6
-Animais,Avisar  sobre animal encontrado com Registro Geral do Animal (RGA),109
-Animais,Solicitar atendimento de animais silvestres acidentados ou feridos,173
-Bilhete Único,Bilhete Único - Denúncia de uso irregular,24
-Bilhete Único,Comunicação de ponto de venda de crédito clandestino,32
-Bilhete Único,Implantação de pontos de venda e recarga em estabelecimento comercial,151
-Cidadania e assistência social,Atendimento especializado para defesa de direitos,1
-Cidadania e assistência social,Denunciar abuso financeiro e econômico de pessoa idosa,9
-Cidadania e assistência social,Denunciar apologia e incitação a crimes contra a vida,6
-Cidadania e assistência social,Denunciar atendimento irregular dos conselhos tutelares,3
-Cidadania e assistência social,Denunciar dificuldade de acesso a direitos e serviços públicos,28
-Cidadania e assistência social,Denunciar exploração sexual,12
-Cidadania e assistência social,Denunciar intolerância religiosa,4
-Cidadania e assistência social,Denunciar negligência e abandono de criança ou adolescente,85
-Cidadania e assistência social,Denunciar negligência e abandono de pessoa idosa,66
-Cidadania e assistência social,Denunciar racismo,11
-Cidadania e assistência social,Denunciar trabalho escravo,6
-Cidadania e assistência social,Denunciar tráfico de pessoas,2
-Cidadania e assistência social,Denunciar violência contra mulher,24
-Cidadania e assistência social,Denunciar violência e discriminação contra imigrante,2
-Cidadania e assistência social,Denunciar violência e discriminação contra pessoa em situação de rua,2
-Cidadania e assistência social,Denunciar violência e discriminação em equipamentos e serviços públicos,6
-Cidadania e assistência social,Denunciar violência e maus tratos de criança ou adolescente,127
-Cidadania e assistência social,Denunciar violência e maus tratos de pessoa idosa,61
-Cidadania e assistência social,Denúncia de trabalho infantil,61
-Cidadania e assistência social,Programa Bolsa Família - Reclamação de mau atendimento nos postos de atendimento,53
-Cidadania e assistência social,Programa Renda Cidadã -  Denúncia de cadastramento/recebimento de benefício indevido,1
-Cidadania e assistência social,Programa Renda Cidadã - Reclamação de mau atendimento nos postos de atendimento,1
-Cidadania e assistência social,Programa Renda Mínima -  Denúncia de cadastramento/recebimento de benefício indevido,2
-Cidadania e assistência social,Programa Renda Mínima - Reclamação de mau atendimento nos postos de atendimento,1
-Cidadania e assistência social,Reclamação do Atendimento nos Serviços da Secretaria de Assistência Social - SMADS,165
-Cidadania e assistência social,Solicitar apoio para busca de pessoa desaparecida,3
-Comércio e serviços,"Denúncia de condições inadequadas de equipamentos de transportes (elevadores, escadas rolantes, plataforma de elevação vertical)",42
-"Cultura, esporte e lazer",Programa de Fomento à Cultura da Periferia - Inscrever recurso,1
-"Cultura, esporte e lazer",WiFi Livre SP - Reclamar sobre problemas na conexão,51
-"Cultura, esporte e lazer",WiFi Livre SP - Sugerir local para instalação,73
-Educação,Denunciar irregularidades em creches conveniadas,26
-Educação,Uniforme escolar - Avisar sobre problemas na compra dos uniformes,42
-Finanças,Autos de Infração - Fale com a Fazenda,175
-Finanças,DOC (Declaração de Operações de Cartões de crédito ou débito) – Fale com a Fazenda,1
-Finanças,Devoluções e Restituições  Fale com a Fazenda,181
-Finanças,Devoluções e Restituições – Fale com a Fazenda,136
-Finanças,Dívida Ativa - Tirar dúvidas sobre serviços relacionados,3
-Lixo e limpeza,Ausência de coleta do contêiner para coleta seletiva,91
+1392,Lavar/Reparar veiculo em via publica,32
+1472,Fio faiscando,192
+1549,Apresentar sinais de embriaguez em serviço,115
+1678,Emissão de Nota Fiscal,9
+1687,Atualização de Dados Cadastrais,64
+1777,Devolução de Valores,5
+1894,Consulta a Débito,3
+1936,Conduta - Postos de Atendimento,6
+1954,Cancelamento de Nota Fiscal,3
+1955,Reclamações,1
+1989,Isenção para Aposentados,8
+1997,Valor,4
+2046,Duplicidade,2
+2054,Infiltração d´água na casa de máquina/caixa/poço do elevador,4
+2062,2ª Via,6
+2133,Sugestão,3
+2211,Conduta - Cadastrador,1
+2218,Onde posso pagar o ISS?,2
+2244,Elogios,1
+2245,Criação de Senha Web,3
+2275,Localizacao de tumulo,1
+Acessibilidade,Acessibilidade - Denunciar falta de móveis adequados,13
+Acessibilidade,Bilhete Único - Denúncia de uso irregular,12
+Animais,Animal de grande porte solto - Solicitar remoção,104
+Animais,Avisar  sobre animal encontrado com Registro Geral do Animal (RGA),43
+Bilhete Único,Bilhete único vale transporte,3
+Canais de Atendimento,Central 156 - Sugestão,27
+Cidadania e assistência social,Denunciar abuso financeiro e econômico de pessoa idosa,6
+Cidadania e assistência social,Denunciar racismo,4
+Cidadania e assistência social,Denunciar violência e discriminação contra jovens,1
+Cidadania e assistência social,Denunciar violência e maus tratos de pessoa idosa,48
+Cidadania e assistência social,Denúncia de humilhação e discriminação,47
+Cidadania e assistência social,Programa Ação Jovem -  Denúncia de cadastramento/recebimento de benefício indevido,11
+Cidadania e assistência social,Programa Ação Jovem - Reclamação de mau atendimento nos postos de atendimento,12
+Cidadania e assistência social,Programa Bolsa Família -  Denúncia de cadastramento/recebimento de benefício indevido,44
+Cidadania e assistência social,Programa Bolsa Família - Reclamação de mau atendimento nos postos de atendimento,108
+Cidadania e assistência social,Programa Renda Cidadã -  Denúncia de cadastramento/recebimento de benefício indevido,44
+Cidadania e assistência social,Programa Renda Cidadã - Reclamação de mau atendimento nos postos de atendimento,2
+Cidadania e assistência social,Programa Renda Mínima -  Denúncia de cadastramento/recebimento de benefício indevido,87
+Cidadania e assistência social,Programa Renda Mínima - Reclamação de mau atendimento nos postos de atendimento,13
+Cidadania e assistência social,Programa de Erradicação do Trabalho Infantil (PETI) -  Denúncia de cadastramento/recebimento de benefício indevido,1
+Cidadania e assistência social,Programa de Erradicação do Trabalho Infantil (PETI) - Reclamação de mau atendimento nos postos de atendimento,2
+Comércio e serviços,"Denúncia de condições inadequadas de equipamentos de transportes (elevadores, escadas rolantes, plataforma de elevação vertical)",39
+Comércio e serviços,Denúncia de irregularidade em locais com lotação superior a 250 pessoas,45
+Comércio e serviços,Fiscalização de licença de funcionamento de posto de combustível,108
+"Cultura, esporte e lazer",Instalação e manutenção de campo de futebol em área municipal,39
+Documentos e licenças,Vistas de processos,3
+Educação,Alimentação escolar - Reclamar sobre alimentação nas unidades,15
+Educação,Leve Leite - Denúncia de venda ou desvio de leite,64
+Educação,Reclamação da qualidade do leite,46
+Educação,Reclamação de mau atendimento na escola ou na secretaria,1
+Educação,Sugestão de cardápio,2
+Lixo e limpeza,Ausência de coleta do contêiner para coleta seletiva,49
 Lixo e limpeza,Coleta seletiva - Denunciar roubo de contêiner,1
-Lixo e limpeza,Coleta seletiva - Solicitar manutenção de contêiner,81
-Lixo e limpeza,Conduta de funcionários - Elogio,42
-Lixo e limpeza,Denunciar panfletagem irregular,27
-Lixo e limpeza,Denúncia de colocação de lixo reciclável fora do horário de coleta,27
-Lixo e limpeza,Denúncia de estabelecimento gerador de resíduos de saúde não cadastrado,11
-Lixo e limpeza,Denúncia de grande gerador de resíduos colocando lixo na coleta normal,187
-Lixo e limpeza,Limpeza e conservação de monumentos públicos,170
-Lixo e limpeza,Manutenção de caminhão de lixo,4
-Lixo e limpeza,Manutenção de contêiner de resíduos do serviço de saúde,8
-Lixo e limpeza,Publicidade - solicitar fiscalização de publicidade irregular,118
-Lixo e limpeza,Reclamação de falta de lavagem de calçadões,123
-Lixo e limpeza,Reclamações sobre Ecoponto,175
-Lixo e limpeza,Remoção do contêiner de coleta seletiva,71
-Lixo e limpeza,Selo de identificação de estabelecimento gerador de resíduos de saúde  1ª e 2ª via,94
-Lixo e limpeza,Selo de identificação de estabelecimento gerador de resíduos de saúde – 1ª e 2ª via,92
-Meio Ambiente,Denúncia de distribuição de sacolas plásticas irregulares,7
-Meio Ambiente,Denúncia de lançamento de esgoto em córrego,74
-Meio Ambiente,Denúncia de represamento ou aterramento de rio ou córrego,32
-Meio Ambiente,Denúncia de retirada e uso de água subterrânea sem autorização,11
-Meio Ambiente,Denúncia sobre o mau uso do parque por usuários,26
-Meio Ambiente,Parques – Denunciar uso inadequado,13
-Meio Ambiente,Parques – Reclamar sobre manutenção e limpeza,80
-Meio Ambiente,Pedido de esclarecimento sobre áreas contaminadas no município de São Paulo,16
-Meio Ambiente,Reclamação de má-conduta de funcionários de parques,18
-Meio Ambiente,Sugerir obras de drenagem em córregos,168
-"Obras, imóveis e habitação",Solicitar certidão de demolição de imóveis,86
-Ouvidoria Geral do Município,Denunciar conduta inadequada de funcionário(a) público(a),4
-Ouvidoria Geral do Município,Denunciar ilegalidade na gestão pública,1
-Ouvidoria Geral do Município,Denunciar irregularidade da contratação e/ou gestão de serviço público,10
-Rua e bairro,Denunciar fechamento de ruas e vilas,175
-Rua e bairro,Fornecimento de mudas de árvores ao cidadão - Viveiro Manequinho Lopes,2
-Rua e bairro,Guia rebaixada - solicitar fiscalização de rebaixamento irregular,82
-Rua e bairro,"Praças - Solicitar manutenção de equipamentos (mesas, bancos, brinquedos e equipamentos de ginástica)",170
-Rua e bairro,Praças - solicitar manutenção de equipamentos de ginástica,149
-Rua e bairro,Reformar galerias de águas de chuvas (pluviais),197
-Rua e bairro,Reparo e manutenção de relógios de rua,23
-Rua e bairro,Solicitar certidão de numeração e denominação de imóveis,197
-Rua e bairro,Solicitar plantio de árvores em passeio público ou calçada,39
-Rua e bairro,Sugerir construção de calçadas em áreas públicas e praças,178
-Rua e bairro,"Sugerir instalação de mobiliário (mesas, bancos, brinquedos, equipamentos de ginástica) em áreas públicas e praças",144
-Rua e bairro,"Sugerir instalação de mobiliário (mesas, bancos, brinquedos, etc) em áreas públicas",171
-Rua e bairro,Árvore em área interna  Solicitar autorização para remoção de árvore com apresentação de laudo,182
-Saúde,Solicitar - Licença de funcionamento sanitário,1
-Segurança urbana,Denúncias contra atuação de servidor da guarda civil metropolitana,1
-Segurança urbana,Guarda Civil Metropolitana - Crítica e reclamação,19
-Segurança urbana,Guarda Civil Metropolitana - Elogio,3
-Segurança urbana,Guarda Civil Metropolitana - Sugestão,11
-Segurança urbana,Solicitação de policiamento,195
-Trabalho,Fab Lab - Reclamação,2
-Trabalho,Mercados e sacolões - Fazer reclamação,49
-Trabalho,Telecentro - Reclamação,16
-Trânsito e Transporte,ATENDE - Comunicação sobre colisão de veículo do ATENDE,6
-Trânsito e Transporte,Aviso de chapas de aço soltas na via,18
-Trânsito e Transporte,Aviso de obra prejudicando o trânsito,88
-Trânsito e Transporte,Aviso de pista/via escorregadia,14
-Trânsito e Transporte,Aviso de radar danificado,19
-Trânsito e Transporte,Aviso de sinalização com risco de queda,87
-Trânsito e Transporte,Carga a frete - Denúncia de irregularidades,17
+Lixo e limpeza,Coleta seletiva - Solicitar manutenção de contêiner,12
+Lixo e limpeza,Conserto de lixeira,93
+Lixo e limpeza,Denunciar panfletagem irregular,24
+Lixo e limpeza,Denúncia de colocação de lixo reciclável fora do horário de coleta,111
+Lixo e limpeza,Denúncia de descarte irregular de lixo no aterro sanitário,18
+Lixo e limpeza,Denúncia de estabelecimento gerador de resíduos de saúde não cadastrado,13
+Lixo e limpeza,Denúncia de ferro velho irregular,46
+Lixo e limpeza,Denúncia de lavagem de calçada fora de horário,57
+Lixo e limpeza,Denúncia de má conduta dos funcionários de limpeza,131
+Lixo e limpeza,Denúncia de pessoa ateando fogo no lixo,183
+Lixo e limpeza,Denúncia de reciclagem irregular,31
+Lixo e limpeza,Ecoponto - o que é?,14
+Lixo e limpeza,Implantação de coleta porta-porta,141
+Lixo e limpeza,Instalação de contêiner para coleta seletiva,136
+Lixo e limpeza,Manutenção de contêiner de resíduos do serviço de saúde,9
+Lixo e limpeza,Reclamações sobre Ecoponto,103
+Lixo e limpeza,Reclamações sobre coleta de resíduos de serviços de saúde,117
+Lixo e limpeza,Remoção de contêiner para coleta de lixo domiciliar,169
+Lixo e limpeza,Remoção de grandes objetos em vias públicas,13
+Lixo e limpeza,Remoção do contêiner de coleta seletiva,12
+Lixo e limpeza,Selo de identificação de estabelecimento gerador de resíduos de saúde – 1ª e 2ª via,24
+Lixo e limpeza,Varrição de vias - incluir programação,104
+Meio Ambiente,Denúncia de cheiro forte causando incômodo,145
+Meio Ambiente,Denúncia de despejo irregular de esgoto ou outros poluentes de águas dentro dos limites do município,156
+Meio Ambiente,Denúncia de distribuição de sacolas plásticas irregulares,124
+Meio Ambiente,Denúncia de fumaça/ fuligem /material particulado,157
+Meio Ambiente,Denúncia de represamento ou aterramento de rio ou córrego,22
+Meio Ambiente,Denúncia de retirada e uso de água subterrânea sem autorização,29
+Meio Ambiente,Parques – Denunciar uso inadequado,63
+Meio Ambiente,Parques – Reclamar sobre manutenção e limpeza,100
+Meio Ambiente,Poda ou remoção de árvores ou vegetação em parques,39
+Meio Ambiente,Sugerir obras de drenagem em córregos,15
+"Obras, imóveis e habitação","Denunciar janela ou abertura a menos de 1,50m do vizinho",42
+"Obras, imóveis e habitação",Denunciar material de construção depositado em vias públicas,30
+"Obras, imóveis e habitação",Denúncia de preparo de concreto na calçada ou rua,4
+"Obras, imóveis e habitação",Fiscalização de obras na via,4
+Rua e bairro,Construção de muro de arrimo/contenção,60
+Rua e bairro,Denunciar fechamento de ruas e vilas,48
+Rua e bairro,Denúncia de despejo de água de chuva,135
+Rua e bairro,Denúncia de falta de plantio de uma nova árvore após remoção,14
+Rua e bairro,Denúncia de ligação irregular de esgoto,89
+Rua e bairro,"Denúncia de reparo mal executado de calçada por companhias de luz, água, telefone, internet",179
+Rua e bairro,"Guias, sarjetas e sarjetões - solicitar manutenção",23
+Rua e bairro,"Limpeza de valas, valetas e sarjetões",121
+Rua e bairro,Nivelamento de vias de terra,61
+Rua e bairro,Pintura de guias e postes,153
+Rua e bairro,"Praças - Solicitar manutenção de equipamentos (mesas, bancos, brinquedos e equipamentos de ginástica)",1
+Rua e bairro,Reclamação de má execução do serviço de recapeamento e pavimentação,99
+Rua e bairro,Reclamação de pintura de guias e postes mal feita,18
+Rua e bairro,Recolocação e ajuste de paralelepípedo,31
+Rua e bairro,Recurso de multa muro/passeio/limpeza,167
+Rua e bairro,Reparo de poste de luz metálico,125
+Rua e bairro,Reparo de transformador/chave,25
+Rua e bairro,Solicitar acerto de numeração de imóvel,193
+Rua e bairro,Vielas e escadarias - solicitar manutenção,147
+SAC/GRC,Inscrição Online (pessoa física),2
+Saúde,Acolhimento das manifestações dos usuários do serviço público de saúde,47
+Saúde,Denúncias de condições sanitárias inadequadas ou de risco à saúde,26
+Segurança urbana,Denúncias contra atuação de servidor da guarda civil metropolitana,5
+Segurança urbana,Guarda Civil Metropolitana - Crítica e reclamação,20
+Segurança urbana,Guarda Civil Metropolitana - Elogio,4
+Segurança urbana,Guarda Civil Metropolitana - Sugestão,10
+Trabalho,Empreenda Fácil - Suporte Técnico,2
+Trânsito e Transporte,Autorização para obras/ serviços na via,37
+Trânsito e Transporte,Aviso de interferências no trânsito,177
 Trânsito e Transporte,Cartão Azul Digital (CAD) - Denunciar irregularidade em postos de venda credenciados,7
-Trânsito e Transporte,Ciclofaixas de lazer - Solicitar avaliação,18
-Trânsito e Transporte,"Ciclovias, ciclofaixas e ciclorrotas - Solicitar avaliação da infraestrutura",34
-Trânsito e Transporte,"Ciclovias, ciclofaixas e ciclorrotas - Sugerir implantação",80
-Trânsito e Transporte,"Ciclovias, ciclofaixas e ciclorrotas - solicitar manutenção da sinalização e pintura",102
-Trânsito e Transporte,Criação de partida em horário específico,47
-Trânsito e Transporte,Denunciar má conduta de empregados da CET,180
-Trânsito e Transporte,Denúncia de veículo clandestino ou de problemas no transporte,58
-Trânsito e Transporte,Denúncia de veículo clandestino ou não credenciado,20
-Trânsito e Transporte,Denúncia sobre cobrança,97
-Trânsito e Transporte,Elogio à empresa de ônibus,43
-Trânsito e Transporte,Estações de bicicletas compartilhadas - Sugerir instalação de nova estação,10
-Trânsito e Transporte,Estações de bicicletas compartilhadas - solicitar mudança de local,7
-Trânsito e Transporte,Faixas e corredores de ônibus - Solicitar avaliação de problemas,42
-Trânsito e Transporte,Faixas e corredores de ônibus - Solicitar implantação,21
-Trânsito e Transporte,Fiscalizar ausência de vagas reservadas em estabelecimento comercial,14
-Trânsito e Transporte,Fiscalização de estacionamentos particulares,11
-Trânsito e Transporte,Fiscalização de uso de vaga reservada em estabelecimento comercial,17
-Trânsito e Transporte,Fiscalização de uso de vagas reservadas em vias públicas,98
-Trânsito e Transporte,Fiscalização de valet,9
-Trânsito e Transporte,Funcionários da CET - Fazer elogio,19
-Trânsito e Transporte,Inclusão de veículo adaptado na linha,30
-Trânsito e Transporte,Moto-frete - Denúncia de conduta ou postura do condutor,8
-Trânsito e Transporte,Moto-frete - Denúncia de irregularidades,6
-Trânsito e Transporte,Olho Vivo - Sugestão e elogio,40
-Trânsito e Transporte,Painel de mensagens variáveis (PMV),15
-Trânsito e Transporte,Plano emergencial (PAESE),29
-Trânsito e Transporte,Reativação de um abrigo ou ponto que foi extinto,123
-Trânsito e Transporte,Reclamar sobre eventos na via,93
-Trânsito e Transporte,Reclamação da conservação e manutenção da moto,4
-Trânsito e Transporte,Reclamação de conduta de motorista do ATENDE,67
-Trânsito e Transporte,Reclamação de descumprimento de horário de veículos adaptados,53
-Trânsito e Transporte,Reclamação de descumprimento de horário do ATENDE,24
-Trânsito e Transporte,Reclamação de desobediência ao regulamento de Ponto de Taxi,177
-Trânsito e Transporte,Reclamação de falta de comunicado nos ônibus,31
-Trânsito e Transporte,Reclamação de falta de limpeza de terminais de ônibus,55
-Trânsito e Transporte,Reclamação de filas e tumulto em terminais de ônibus,197
-Trânsito e Transporte,Reclamação de obras na via,131
-Trânsito e Transporte,Reclamação de problemas no olho vivo,75
-Trânsito e Transporte,Reclamação de sinalização inadequada de terminais de ônibus,34
-Trânsito e Transporte,Reimplantação ou substituição de um ponto de ônibus do modelo antigo por um equipamento do modelo novo,189
-Trânsito e Transporte,Reparo de catraca eletronica/ validador com falha,64
-Trânsito e Transporte,Reparo de problemas mecânicos,144
-Trânsito e Transporte,Solicitar fiscalização de ausência de vagas reservadas em estabelecimento comercial,19
-Trânsito e Transporte,Solicitar fiscalização de estacionamentos particulares,22
-Trânsito e Transporte,Solicitar fiscalização de valet,10
-Trânsito e Transporte,Sugerir criação e ampliação de vagas para Idoso/Defis em vias públicas,87
-Trânsito e Transporte,Taxi / Aplicativos - Elogio ao condutor,4
-Trânsito e Transporte,Taxi / Aplicativos - Reclamação da conservação e manutenção do veículo,12
-Trânsito e Transporte,Transporte Escolar - Denúncia de conduta ou postura do condutor,75
-Trânsito e Transporte,Transporte Escolar - Denúncia ou reclamação de irregularidades ou problemas no transporte,146
-Trânsito e Transporte,Transporte Escolar - Reclamação da conservação e manutenção do veículo,14
-Trânsito e Transporte,Táxi/Aplicativos - Achados e perdidos,48
-Trânsito e Transporte,Vaga de estacionamento na via - solicitar análise de proibição,195
-Trânsito e Transporte,Vaga de estacionamento na via - solicitar desativação ou modificação,100
-Trânsito e Transporte,Ônibus fretado - Denúncia de conduta ou postura do condutor,39
-Trânsito e Transporte,Ônibus fretado - Denúncia ou reclamação de irregularidades ou problemas no transporte,10
-Trânsito e Transporte,Ônibus fretado - Reclamação da conservação e manutenção do veículo,67
-Urgência,Afogamento em curso,1
-Urgência,Arma de fogo,16
-Urgência,Ato obsceno,50
-Urgência,Corrupção de menor,64
-Urgência,Dano ao patrimônio,146
-Urgência,Desacato a agente público,19
-Urgência,Desentendimento,88
-Urgência,Destelhamento,30
-Urgência,Encontro de cadáver,7
-Urgência,Estupro ou tentativa de estupro,10
-Urgência,Explosão,7
-Urgência,Extorsão,46
-Urgência,Fogo em mato,26
-Urgência,Furto ou tentativa de furto,145
-Urgência,Homicídio e tentativa de homicídio,6
-Urgência,Incêndio,165
-Urgência,Maus tratos de pessoas,7
-Urgência,Obra de arte (danificada),23
-Urgência,Ocorrência com pessoa desprotegida,99
-Urgência,Ocorrência em cemitério,27
-Urgência,Ocorrência médica com pessoa,36
-Urgência,Pichação,18
-Urgência,Preconceito (Racismo),3
-Urgência,Produtos perigosos,41
-Urgência,Pré-ocorrência,26
-Urgência,Queda de aeronave,1
-Urgência,Rompimento de adutora,32
-Urgência,Rompimento de galeria de águas pluviais,95
-Urgência,Roubo ou tentativa de roubo,79
-Urgência,Soltura de balões ou fogos,12
-Urgência,Soterramento,1
-Urgência,Suicídio ou Tentativa de Suicídio,8
-Urgência,Vazamento de gás,49
-Urgência,Veículo abandonado em próprio municipal,24
-Urgência,[Solicitado pela Defesa Civil  uso interno]  Vistoria em área de risco,59
-Urgência,[Solicitado pela Defesa Civil – uso interno]  Vistoria em área de risco,36
+Trânsito e Transporte,"Ciclovias, ciclofaixas e ciclorrotas - solicitar manutenção da sinalização e pintura",1
+Trânsito e Transporte,Criação de partida em horário específico,121
+Trânsito e Transporte,Denúncia de valet utilizando via pública como estacionamento,26
+Trânsito e Transporte,Denúncia de veículo clandestino ou não credenciado,4
+Trânsito e Transporte,Elogio à empresa de ônibus,14
+Trânsito e Transporte,Fiscalização de uso de vagas reservadas em vias públicas,28
+Trânsito e Transporte,Funcionários da CET - Fazer elogio,28
+Trânsito e Transporte,Inclusão de veículo adaptado na linha,19
+Trânsito e Transporte,Limpeza do ônibus,162
+Trânsito e Transporte,Manutenção de placa com nome de rua,178
+Trânsito e Transporte,Painel de mensagens variáveis (PMV),9
+Trânsito e Transporte,Plano emergencial (PAESE),20
+Trânsito e Transporte,Reclamar sobre eventos na via,5
+Trânsito e Transporte,Reclamação de conduta de motorista do ATENDE,22
+Trânsito e Transporte,Reclamação de descumprimento de horário de veículos adaptados,97
+Trânsito e Transporte,Reclamação de descumprimento de horário do ATENDE,49
+Trânsito e Transporte,Reclamação de falta de comunicado nos ônibus,13
+Trânsito e Transporte,Reclamação de falta de limpeza de terminais de ônibus,24
+Trânsito e Transporte,Reclamação de filas e tumulto em terminais de ônibus,130
+Trânsito e Transporte,Reclamação de sinalização inadequada de terminais de ônibus,9
+Trânsito e Transporte,Reparo de catraca eletronica/ validador com falha,63
+Trânsito e Transporte,Solicitar fiscalização de ausência de vagas reservadas em estabelecimento comercial,33
+Trânsito e Transporte,Solicitar fiscalização de valet,20
+Trânsito e Transporte,Solicitar remoção de veículo/carcaça abandonado na via pública,13
+Trânsito e Transporte,Sugerir criação e ampliação de vagas para Idoso/Defis em vias públicas,69
+Trânsito e Transporte,"Ônibus - Elogio ao motorista, cobrador ou fiscal",200
+Trânsito e Transporte,Ônibus - Reclamação de demora na partida,129
+Urgência,Alagamento,2
+Urgência,Desabamento,1
+Urgência,Deslizamento,1
+Urgência,Erosão,1
+Urgência,Fogo em mato,1
+Urgência,Inundação,1
+Urgência,Rachadura de Edificação,2
+Urgência,Vazamento de gás,2
