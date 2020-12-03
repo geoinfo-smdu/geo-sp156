@@ -19,6 +19,10 @@ O objetivo princpal é desenvolver uma metodologia e documentar o conhecimento q
 Inicialmente vamos utilzar o Python, bilbioteca Pandas e GeoPandas para tratar, epacializar e analisar os dados obtidos, descritos no notebook: [Primeiros processamentos e análises](https://github.com/geoinfo-smdu/geo-sp156/blob/sp156/Primeiros%20Prcessamentos%20e%20An%C3%A1lises.ipynb) Em um segundo momento o desafio vai ser publicar esses dados que são diversos em relação ao espaçõ tanto quanto a classificação e a imensidão de temas e possibilidades.
 Existe ainda um outro grande desafio que não devemos e nem podemos deixar para trás que é a cronologia das ocorrências. Elas podem estar ligadas a fenomenos sazonais da cidade, como período de chuvas e estiagem, assim como datas festivas, férias, temperatura entre outros tantos.
 
+## Resultados
+
+Os resultados obtidos neste geoprocessamento vão ficar disponíveis na pasta `resultados` em formato GeoPackage em subpastas por Ano, Tema e eventualmente tipo de geometria gerada (Polígono ou Ponto), onde o nome do arquivo é composto pelo serviço. 
+
 ## Convenções 
 
 Definimos que a pasta download vai conter os arquivos que podem ser baixados nos links abaixo, ou ainda se preferir fazer o download de maneira automática através do script `scripts/DownloadSP156.ps1`
