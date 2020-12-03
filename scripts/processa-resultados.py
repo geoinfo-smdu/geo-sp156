@@ -118,8 +118,8 @@ for y in range(2015, 2021):
 
     gdf.iloc[gdf.index.isin(centroide_distritos.index), gdf.columns.get_loc('geometry')] = centroide_distritos
 
-    # Modificando Temas em numeral para 'Diversos'
-    # TODO
+    # Modificando Temas em numeral para 'Outros'
+    gdf.loc[df.Tema.str.len() < 5, 'Tema'] = 'Outros'
 
     # Gerando o arquivo das camadas
     poligonos = gdf[~gdf.Serviço.isin(gdf_servicos_pontos.index)]
