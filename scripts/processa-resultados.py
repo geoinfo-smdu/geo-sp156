@@ -23,7 +23,7 @@ df_quadras = df_quadras[df_quadras.qd_tipo == 'F'] # Somente Quadras Fiscais
 msp = gpd.read_file('arquivos/SP.shp')
 
 # Criando array de resgistros para CSV
-regs = ['ano', 'tema', 'serviço', 'geometria', 'caminho', 'resgistros']
+regs = [['ano', 'tema', 'serviço', 'geometria', 'caminho', 'resgistros']]
 
 ## Itera sobre cada ano de atendimento
 for y in range(2015, 2021):
@@ -153,7 +153,7 @@ for y in range(2015, 2021):
             if len(r) > 1:
                 # r.to_file(f'resultados/Visualizador-156-2020.gpkg', layer=f'{slugify(t)} - Polígono - {s}', driver='GPKG')
                 r.to_file(f'resultados/{y}/{slugify(t)}/poligonos/{slugify(s)}.gpkg', driver='GPKG')
-                reg.append([y, t, s, 'poligono', f'resultados/{y}/{slugify(t)}/poligonos/{slugify(s)}.gpkg', len(r)])
+                regs.append([y, t, s, 'poligono', f'resultados/{y}/{slugify(t)}/poligonos/{slugify(s)}.gpkg', len(r)])
 
     # Verificando atendimentos fora dos limites do município
     print('Verificando atendimentos fora dos limites do município')
@@ -171,14 +171,14 @@ for y in range(2015, 2021):
             r = pontos[(pontos.Serviço == s) & (pontos.Tema == t)]
             if len(r) > 1:
                 r.to_file(f'resultados/{y}/{slugify(t)}/pontos/{slugify(s)}.gpkg', driver='GPKG')
-                reg.append([y, t, s, 'ponto', f'resultados/{y}/{slugify(t)}/poligonos/{slugify(s)}.gpkg', len(r)])
+                regs.append([y, t, s, 'ponto', f'resultados/{y}/{slugify(t)}/poligonos/{slugify(s)}.gpkg', len(r)])
 
 
 # Abrindo o CSV de resultados
-file = open('resultados/resultados.csv', 'wb', newline ='') 
+file = open('resultados/resultados.csv', 'w+', newline ='') 
   
 # Escrevendo no arquivo CSV
-with file:     
+with file:
     write = csv.writer(file) 
     write.writerows(regs) 
 
