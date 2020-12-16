@@ -224,98 +224,98 @@ ano,tema,serviço,geometria,caminho,resgistros
 2020,Segurança urbana,Guarda Civil Metropolitana - Sugestão,poligono,resultados/ultimos-6-meses/seguranca-urbana/poligonos/guarda-civil-metropolitana-sugestao.gpkg,6
 2020,"Cultura, esporte e lazer",WiFi Livre SP - Reclamar sobre problemas na conexão,poligono,resultados/ultimos-6-meses/cultura-esporte-e-lazer/poligonos/wifi-livre-sp-reclamar-sobre-problemas-na-conexao.gpkg,17
 2020,"Cultura, esporte e lazer",WiFi Livre SP - Sugerir local para instalação,poligono,resultados/ultimos-6-meses/cultura-esporte-e-lazer/poligonos/wifi-livre-sp-sugerir-local-para-instalacao.gpkg,22
-2020,Trânsito e Transporte,Ônibus - Reclamação de intervalo excessivo da linha,ponto,resultados/ultimos-6-meses/transito-e-transporte/poligonos/onibus-reclamacao-de-intervalo-excessivo-da-linha.gpkg,4890
-2020,Trânsito e Transporte,Ônibus - Reclamação de descumprimento de partida no ponto inicial/final,ponto,resultados/ultimos-6-meses/transito-e-transporte/poligonos/onibus-reclamacao-de-descumprimento-de-partida-no-ponto-inicial-final.gpkg,962
-2020,Trânsito e Transporte,Ônibus - Denúncia de direção inadequada ou perigosa de veículo,ponto,resultados/ultimos-6-meses/transito-e-transporte/poligonos/onibus-denuncia-de-direcao-inadequada-ou-perigosa-de-veiculo.gpkg,888
-2020,Trânsito e Transporte,Ônibus - Denúncia de problemas no embarque/desembarque,ponto,resultados/ultimos-6-meses/transito-e-transporte/poligonos/onibus-denuncia-de-problemas-no-embarque-desembarque.gpkg,2131
-2020,Trânsito e Transporte,"Ônibus - Elogio ao motorista, cobrador ou fiscal",ponto,resultados/ultimos-6-meses/transito-e-transporte/poligonos/onibus-elogio-ao-motorista-cobrador-ou-fiscal.gpkg,202
-2020,Trânsito e Transporte,"Ônibus - Denúncia de conduta do motorista, cobrador ou fiscal",ponto,resultados/ultimos-6-meses/transito-e-transporte/poligonos/onibus-denuncia-de-conduta-do-motorista-cobrador-ou-fiscal.gpkg,3704
-2020,Trânsito e Transporte,"Ciclovias, ciclofaixas e ciclorrotas - solicitar manutenção da sinalização e pintura",ponto,resultados/ultimos-6-meses/transito-e-transporte/poligonos/ciclovias-ciclofaixas-e-ciclorrotas-solicitar-manutencao-da-sinalizacao-e-pintura.gpkg,78
-2020,Trânsito e Transporte,Reativação de um abrigo ou ponto que foi extinto,ponto,resultados/ultimos-6-meses/transito-e-transporte/poligonos/reativacao-de-um-abrigo-ou-ponto-que-foi-extinto.gpkg,45
-2020,Trânsito e Transporte,Implantação de abrigo ou ponto de ônibus,ponto,resultados/ultimos-6-meses/transito-e-transporte/poligonos/implantacao-de-abrigo-ou-ponto-de-onibus.gpkg,296
-2020,Trânsito e Transporte,Sinalização horizontal apagada (pintura de solo) – Solicitar repintura,ponto,resultados/ultimos-6-meses/transito-e-transporte/poligonos/sinalizacao-horizontal-apagada-pintura-de-solo-solicitar-repintura.gpkg,921
-2020,Trânsito e Transporte,Ônibus - Manutenção do veículo em geral,ponto,resultados/ultimos-6-meses/transito-e-transporte/poligonos/onibus-manutencao-do-veiculo-em-geral.gpkg,260
-2020,Trânsito e Transporte,Fiscalização de veículo estacionado em local proibido,ponto,resultados/ultimos-6-meses/transito-e-transporte/poligonos/fiscalizacao-de-veiculo-estacionado-em-local-proibido.gpkg,2005
-2020,Trânsito e Transporte,Reclamação de problemas no olho vivo,ponto,resultados/ultimos-6-meses/transito-e-transporte/poligonos/reclamacao-de-problemas-no-olho-vivo.gpkg,22
-2020,Trânsito e Transporte,"Manutenção, conserto e limpeza de ponto de ônibus",ponto,resultados/ultimos-6-meses/transito-e-transporte/poligonos/manutencao-conserto-e-limpeza-de-ponto-de-onibus.gpkg,244
-2020,Trânsito e Transporte,Manutenção de placas de trânsito,ponto,resultados/ultimos-6-meses/transito-e-transporte/poligonos/manutencao-de-placas-de-transito.gpkg,941
-2020,Trânsito e Transporte,Remanejamento de ponto de ônibus,ponto,resultados/ultimos-6-meses/transito-e-transporte/poligonos/remanejamento-de-ponto-de-onibus.gpkg,276
-2020,Trânsito e Transporte,Reimplantação ou substituição de um ponto de ônibus do modelo antigo por um equipamento do modelo novo,ponto,resultados/ultimos-6-meses/transito-e-transporte/poligonos/reimplantacao-ou-substituicao-de-um-ponto-de-onibus-do-modelo-antigo-por-um-equipamento-do-modelo-novo.gpkg,99
-2020,Trânsito e Transporte,Ônibus - Denúncia de alteração de itinerário ou ponto inicial/final,ponto,resultados/ultimos-6-meses/transito-e-transporte/poligonos/onibus-denuncia-de-alteracao-de-itinerario-ou-ponto-inicial-final.gpkg,210
-2020,Trânsito e Transporte,SPTrans - Sugestão,ponto,resultados/ultimos-6-meses/transito-e-transporte/poligonos/sptrans-sugestao.gpkg,870
-2020,Trânsito e Transporte,Ciclofaixas de lazer - Solicitar avaliação,ponto,resultados/ultimos-6-meses/transito-e-transporte/poligonos/ciclofaixas-de-lazer-solicitar-avaliacao.gpkg,12
-2020,Trânsito e Transporte,Ônibus - Reclamação de veículo com superlotação,ponto,resultados/ultimos-6-meses/transito-e-transporte/poligonos/onibus-reclamacao-de-veiculo-com-superlotacao.gpkg,428
-2020,Trânsito e Transporte,Ônibus - Alteração de itinerário ou ponto inicial/final,ponto,resultados/ultimos-6-meses/transito-e-transporte/poligonos/onibus-alteracao-de-itinerario-ou-ponto-inicial-final.gpkg,212
-2020,Trânsito e Transporte,Reclamação de falta de limpeza de terminais de ônibus,ponto,resultados/ultimos-6-meses/transito-e-transporte/poligonos/reclamacao-de-falta-de-limpeza-de-terminais-de-onibus.gpkg,34
-2020,Trânsito e Transporte,Criação de partida em horário específico,ponto,resultados/ultimos-6-meses/transito-e-transporte/poligonos/criacao-de-partida-em-horario-especifico.gpkg,14
-2020,Trânsito e Transporte,Ônibus - Reclamação de demora na partida,ponto,resultados/ultimos-6-meses/transito-e-transporte/poligonos/onibus-reclamacao-de-demora-na-partida.gpkg,425
-2020,Trânsito e Transporte,Reparo de problemas mecânicos,ponto,resultados/ultimos-6-meses/transito-e-transporte/poligonos/reparo-de-problemas-mecanicos.gpkg,35
-2020,Trânsito e Transporte,Limpeza do ônibus,ponto,resultados/ultimos-6-meses/transito-e-transporte/poligonos/limpeza-do-onibus.gpkg,141
-2020,Trânsito e Transporte,Reclamação de conduta de motorista do ATENDE,ponto,resultados/ultimos-6-meses/transito-e-transporte/poligonos/reclamacao-de-conduta-de-motorista-do-atende.gpkg,17
-2020,Trânsito e Transporte,Reclamação de sinalização inadequada de terminais de ônibus,ponto,resultados/ultimos-6-meses/transito-e-transporte/poligonos/reclamacao-de-sinalizacao-inadequada-de-terminais-de-onibus.gpkg,17
-2020,Trânsito e Transporte,Reclamação de filas e tumulto em terminais de ônibus,ponto,resultados/ultimos-6-meses/transito-e-transporte/poligonos/reclamacao-de-filas-e-tumulto-em-terminais-de-onibus.gpkg,124
-2020,Trânsito e Transporte,Denúncia de veículo clandestino ou não credenciado,ponto,resultados/ultimos-6-meses/transito-e-transporte/poligonos/denuncia-de-veiculo-clandestino-ou-nao-credenciado.gpkg,11
-2020,Trânsito e Transporte,Criação/reativação de linha de ônibus,ponto,resultados/ultimos-6-meses/transito-e-transporte/poligonos/criacao-reativacao-de-linha-de-onibus.gpkg,294
-2020,Trânsito e Transporte,Reclamação de falta de comunicado nos ônibus,ponto,resultados/ultimos-6-meses/transito-e-transporte/poligonos/reclamacao-de-falta-de-comunicado-nos-onibus.gpkg,15
-2020,Trânsito e Transporte,Reparo de catraca eletronica/ validador com falha,ponto,resultados/ultimos-6-meses/transito-e-transporte/poligonos/reparo-de-catraca-eletronica-validador-com-falha.gpkg,37
-2020,Trânsito e Transporte,Elogio à empresa de ônibus,ponto,resultados/ultimos-6-meses/transito-e-transporte/poligonos/elogio-a-empresa-de-onibus.gpkg,16
-2020,Trânsito e Transporte,Inclusão de veículo adaptado na linha,ponto,resultados/ultimos-6-meses/transito-e-transporte/poligonos/inclusao-de-veiculo-adaptado-na-linha.gpkg,16
-2020,Trânsito e Transporte,Reclamação de descumprimento de horário de veículos adaptados,ponto,resultados/ultimos-6-meses/transito-e-transporte/poligonos/reclamacao-de-descumprimento-de-horario-de-veiculos-adaptados.gpkg,30
-2020,Trânsito e Transporte,"Ciclovias, ciclofaixas e ciclorrotas - Sugerir implantação",ponto,resultados/ultimos-6-meses/transito-e-transporte/poligonos/ciclovias-ciclofaixas-e-ciclorrotas-sugerir-implantacao.gpkg,69
-2020,Trânsito e Transporte,"Ciclovias, ciclofaixas e ciclorrotas - Solicitar avaliação da infraestrutura",ponto,resultados/ultimos-6-meses/transito-e-transporte/poligonos/ciclovias-ciclofaixas-e-ciclorrotas-solicitar-avaliacao-da-infraestrutura.gpkg,19
-2020,Trânsito e Transporte,Painel de mensagens variáveis (PMV),ponto,resultados/ultimos-6-meses/transito-e-transporte/poligonos/painel-de-mensagens-variaveis-pmv.gpkg,6
-2020,Trânsito e Transporte,Olho Vivo - Sugestão e elogio,ponto,resultados/ultimos-6-meses/transito-e-transporte/poligonos/olho-vivo-sugestao-e-elogio.gpkg,15
-2020,Trânsito e Transporte,ATENDE - Comunicação sobre colisão de veículo do ATENDE,ponto,resultados/ultimos-6-meses/transito-e-transporte/poligonos/atende-comunicacao-sobre-colisao-de-veiculo-do-atende.gpkg,3
-2020,Rua e bairro,Tapa-buraco,ponto,resultados/ultimos-6-meses/rua-e-bairro/poligonos/tapa-buraco.gpkg,41687
-2020,Rua e bairro,"Solicitar limpeza de bueiros, boca de lobo e poços de visita",ponto,resultados/ultimos-6-meses/rua-e-bairro/poligonos/solicitar-limpeza-de-bueiros-boca-de-lobo-e-pocos-de-visita.gpkg,7558
-2020,Rua e bairro,Capinação em guias e sarjetas,ponto,resultados/ultimos-6-meses/rua-e-bairro/poligonos/capinacao-em-guias-e-sarjetas.gpkg,4522
-2020,Rua e bairro,(antigo) Reformar galerias de águas de chuvas (pluviais),ponto,resultados/ultimos-6-meses/rua-e-bairro/poligonos/antigo-reformar-galerias-de-aguas-de-chuvas-pluviais.gpkg,653
-2020,Rua e bairro,Tapa-buraco em faixa exclusiva ou corredor de ônibus,ponto,resultados/ultimos-6-meses/rua-e-bairro/poligonos/tapa-buraco-em-faixa-exclusiva-ou-corredor-de-onibus.gpkg,420
-2020,Rua e bairro,Pintura de guias e postes,ponto,resultados/ultimos-6-meses/rua-e-bairro/poligonos/pintura-de-guias-e-postes.gpkg,523
-2020,Rua e bairro,Vistoria e reparo de pontes e viadutos,ponto,resultados/ultimos-6-meses/rua-e-bairro/poligonos/vistoria-e-reparo-de-pontes-e-viadutos.gpkg,115
-2020,Rua e bairro,Reparo e manutenção de relógios de rua,ponto,resultados/ultimos-6-meses/rua-e-bairro/poligonos/reparo-e-manutencao-de-relogios-de-rua.gpkg,14
-2020,Lixo e limpeza,Remoção de entulho em via pública,ponto,resultados/ultimos-6-meses/lixo-e-limpeza/poligonos/remocao-de-entulho-em-via-publica.gpkg,12941
-2020,Lixo e limpeza,Remoção de grandes objetos em vias públicas,ponto,resultados/ultimos-6-meses/lixo-e-limpeza/poligonos/remocao-de-grandes-objetos-em-vias-publicas.gpkg,21676
-2020,Lixo e limpeza,Reclamação de falta de limpeza de ruas após a feira,ponto,resultados/ultimos-6-meses/lixo-e-limpeza/poligonos/reclamacao-de-falta-de-limpeza-de-ruas-apos-a-feira.gpkg,176
-2020,Lixo e limpeza,Reclamação de falta de varrição,ponto,resultados/ultimos-6-meses/lixo-e-limpeza/poligonos/reclamacao-de-falta-de-varricao.gpkg,7723
-2020,Lixo e limpeza,Limpeza e conservação de monumentos públicos,ponto,resultados/ultimos-6-meses/lixo-e-limpeza/poligonos/limpeza-e-conservacao-de-monumentos-publicos.gpkg,87
-2020,Lixo e limpeza,Reclamações sobre coleta de lixo domiciliar,ponto,resultados/ultimos-6-meses/lixo-e-limpeza/poligonos/reclamacoes-sobre-coleta-de-lixo-domiciliar.gpkg,2239
-2020,Lixo e limpeza,Instalação de contêiner para coleta seletiva,ponto,resultados/ultimos-6-meses/lixo-e-limpeza/poligonos/instalacao-de-conteiner-para-coleta-seletiva.gpkg,258
-2020,Lixo e limpeza,Instalação e remoção de lixeira,ponto,resultados/ultimos-6-meses/lixo-e-limpeza/poligonos/instalacao-e-remocao-de-lixeira.gpkg,3788
-2020,Lixo e limpeza,Reclamação de não remoção dos sacos de varrição,ponto,resultados/ultimos-6-meses/lixo-e-limpeza/poligonos/reclamacao-de-nao-remocao-dos-sacos-de-varricao.gpkg,420
-2020,Lixo e limpeza,Reclamações sobre coleta de resíduos de serviços de saúde,ponto,resultados/ultimos-6-meses/lixo-e-limpeza/poligonos/reclamacoes-sobre-coleta-de-residuos-de-servicos-de-saude.gpkg,435
-2020,Lixo e limpeza,Denúncia de má conduta dos funcionários (motoristas /coletores),ponto,resultados/ultimos-6-meses/lixo-e-limpeza/poligonos/denuncia-de-ma-conduta-dos-funcionarios-motoristas-coletores.gpkg,192
-2020,Lixo e limpeza,Reclamações sobre coleta seletiva,ponto,resultados/ultimos-6-meses/lixo-e-limpeza/poligonos/reclamacoes-sobre-coleta-seletiva.gpkg,606
-2020,Lixo e limpeza,Lavagem especial de locais públicos,ponto,resultados/ultimos-6-meses/lixo-e-limpeza/poligonos/lavagem-especial-de-locais-publicos.gpkg,1230
-2020,Lixo e limpeza,Instalação de contêiner para coleta de lixo domiciliar,ponto,resultados/ultimos-6-meses/lixo-e-limpeza/poligonos/instalacao-de-conteiner-para-coleta-de-lixo-domiciliar.gpkg,379
-2020,Lixo e limpeza,Cata Bagulho - Reclamação de não retirada de material,ponto,resultados/ultimos-6-meses/lixo-e-limpeza/poligonos/cata-bagulho-reclamacao-de-nao-retirada-de-material.gpkg,1628
-2020,Lixo e limpeza,Denúncia de má conduta dos funcionários de limpeza,ponto,resultados/ultimos-6-meses/lixo-e-limpeza/poligonos/denuncia-de-ma-conduta-dos-funcionarios-de-limpeza.gpkg,163
-2020,Lixo e limpeza,Limpeza da via pública após enchentes ou eventos,ponto,resultados/ultimos-6-meses/lixo-e-limpeza/poligonos/limpeza-da-via-publica-apos-enchentes-ou-eventos.gpkg,175
-2020,Lixo e limpeza,Ausência de coleta do contêiner para coleta seletiva,ponto,resultados/ultimos-6-meses/lixo-e-limpeza/poligonos/ausencia-de-coleta-do-conteiner-para-coleta-seletiva.gpkg,60
-2020,Lixo e limpeza,Coleta seletiva - Solicitar manutenção de contêiner,ponto,resultados/ultimos-6-meses/lixo-e-limpeza/poligonos/coleta-seletiva-solicitar-manutencao-de-conteiner.gpkg,47
-2020,Lixo e limpeza,Selo de identificação de estabelecimento gerador de resíduos de saúde – 1ª e 2ª via,ponto,resultados/ultimos-6-meses/lixo-e-limpeza/poligonos/selo-de-identificacao-de-estabelecimento-gerador-de-residuos-de-saude-1a-e-2a-via.gpkg,141
-2020,Lixo e limpeza,Implantação de coleta porta-porta,ponto,resultados/ultimos-6-meses/lixo-e-limpeza/poligonos/implantacao-de-coleta-porta-porta.gpkg,157
-2020,Lixo e limpeza,Remoção de contêiner para coleta de lixo domiciliar,ponto,resultados/ultimos-6-meses/lixo-e-limpeza/poligonos/remocao-de-conteiner-para-coleta-de-lixo-domiciliar.gpkg,147
-2020,Lixo e limpeza,Conserto de lixeira,ponto,resultados/ultimos-6-meses/lixo-e-limpeza/poligonos/conserto-de-lixeira.gpkg,98
-2020,Lixo e limpeza,Manutenção de contêiner de resíduos do serviço de saúde,ponto,resultados/ultimos-6-meses/lixo-e-limpeza/poligonos/manutencao-de-conteiner-de-residuos-do-servico-de-saude.gpkg,7
-2020,Lixo e limpeza,Remoção do contêiner de coleta seletiva,ponto,resultados/ultimos-6-meses/lixo-e-limpeza/poligonos/remocao-do-conteiner-de-coleta-seletiva.gpkg,42
-2020,Lixo e limpeza,Reclamação de falta de lavagem de calçadões,ponto,resultados/ultimos-6-meses/lixo-e-limpeza/poligonos/reclamacao-de-falta-de-lavagem-de-calcadoes.gpkg,87
-2020,Animais,Avisar  sobre animal encontrado com Registro Geral do Animal (RGA),ponto,resultados/ultimos-6-meses/animais/poligonos/avisar-sobre-animal-encontrado-com-registro-geral-do-animal-rga.gpkg,67
-2020,Animais,Vistoria de colmeia/vespeiro instalado,ponto,resultados/ultimos-6-meses/animais/poligonos/vistoria-de-colmeia-vespeiro-instalado.gpkg,2883
-2020,Animais,Morcego - Reclamar sobre local com morcego,ponto,resultados/ultimos-6-meses/animais/poligonos/morcego-reclamar-sobre-local-com-morcego.gpkg,650
-2020,Animais,Avisar sobre animal agressor em vias públicas,ponto,resultados/ultimos-6-meses/animais/poligonos/avisar-sobre-animal-agressor-em-vias-publicas.gpkg,455
-2020,Animais,Avaliação de animal em sofrimento sem proprietário para eutanásia (morte sem dor),ponto,resultados/ultimos-6-meses/animais/poligonos/avaliacao-de-animal-em-sofrimento-sem-proprietario-para-eutanasia-morte-sem-dor.gpkg,506
-2020,Animais,Remoção de animal morto em via pública,ponto,resultados/ultimos-6-meses/animais/poligonos/remocao-de-animal-morto-em-via-publica.gpkg,1246
-2020,Animais,Solicitar avaliação de local com pernilongo/mosquito,ponto,resultados/ultimos-6-meses/animais/poligonos/solicitar-avaliacao-de-local-com-pernilongo-mosquito.gpkg,2211
-2020,Animais,Animal de grande porte solto - Solicitar remoção,ponto,resultados/ultimos-6-meses/animais/poligonos/animal-de-grande-porte-solto-solicitar-remocao.gpkg,65
-2020,Urgência,Queda de árvore,ponto,resultados/ultimos-6-meses/urgencia/poligonos/queda-de-arvore.gpkg,947
-2020,Urgência,Queda de galho,ponto,resultados/ultimos-6-meses/urgencia/poligonos/queda-de-galho.gpkg,574
-2020,Urgência,Erosão,ponto,resultados/ultimos-6-meses/urgencia/poligonos/erosao.gpkg,147
-2020,Urgência,[Solicitado pela Defesa Civil - uso interno] Apoio a órgãos públicos,ponto,resultados/ultimos-6-meses/urgencia/poligonos/solicitado-pela-defesa-civil-uso-interno-apoio-a-orgaos-publicos.gpkg,141
-2020,Urgência,Rompimento de galeria de águas pluviais,ponto,resultados/ultimos-6-meses/urgencia/poligonos/rompimento-de-galeria-de-aguas-pluviais.gpkg,47
-2020,Urgência,Explosão,ponto,resultados/ultimos-6-meses/urgencia/poligonos/explosao.gpkg,4
-2020,Bilhete Único,Comunicação de erro em cobrança de integração (ônibus e metrô ou trem),ponto,resultados/ultimos-6-meses/bilhete-unico/poligonos/comunicacao-de-erro-em-cobranca-de-integracao-onibus-e-metro-ou-trem.gpkg,1719
-2020,Bilhete Único,Bilhete Único - Falha na recarga,ponto,resultados/ultimos-6-meses/bilhete-unico/poligonos/bilhete-unico-falha-na-recarga.gpkg,229
-2020,Bilhete Único,Comunicação de problema em posto de recarga,ponto,resultados/ultimos-6-meses/bilhete-unico/poligonos/comunicacao-de-problema-em-posto-de-recarga.gpkg,174
-2020,Bilhete Único,Comunicação de ponto de venda de crédito clandestino,ponto,resultados/ultimos-6-meses/bilhete-unico/poligonos/comunicacao-de-ponto-de-venda-de-credito-clandestino.gpkg,21
-2020,Meio Ambiente,Sugerir obras de drenagem em córregos,ponto,resultados/ultimos-6-meses/meio-ambiente/poligonos/sugerir-obras-de-drenagem-em-corregos.gpkg,88
+2020,Trânsito e Transporte,Ônibus - Reclamação de intervalo excessivo da linha,ponto,resultados/ultimos-6-meses/transito-e-transporte/pontos/onibus-reclamacao-de-intervalo-excessivo-da-linha.gpkg,4890
+2020,Trânsito e Transporte,Ônibus - Reclamação de descumprimento de partida no ponto inicial/final,ponto,resultados/ultimos-6-meses/transito-e-transporte/pontos/onibus-reclamacao-de-descumprimento-de-partida-no-ponto-inicial-final.gpkg,962
+2020,Trânsito e Transporte,Ônibus - Denúncia de direção inadequada ou perigosa de veículo,ponto,resultados/ultimos-6-meses/transito-e-transporte/pontos/onibus-denuncia-de-direcao-inadequada-ou-perigosa-de-veiculo.gpkg,888
+2020,Trânsito e Transporte,Ônibus - Denúncia de problemas no embarque/desembarque,ponto,resultados/ultimos-6-meses/transito-e-transporte/pontos/onibus-denuncia-de-problemas-no-embarque-desembarque.gpkg,2131
+2020,Trânsito e Transporte,"Ônibus - Elogio ao motorista, cobrador ou fiscal",ponto,resultados/ultimos-6-meses/transito-e-transporte/pontos/onibus-elogio-ao-motorista-cobrador-ou-fiscal.gpkg,202
+2020,Trânsito e Transporte,"Ônibus - Denúncia de conduta do motorista, cobrador ou fiscal",ponto,resultados/ultimos-6-meses/transito-e-transporte/pontos/onibus-denuncia-de-conduta-do-motorista-cobrador-ou-fiscal.gpkg,3704
+2020,Trânsito e Transporte,"Ciclovias, ciclofaixas e ciclorrotas - solicitar manutenção da sinalização e pintura",ponto,resultados/ultimos-6-meses/transito-e-transporte/pontos/ciclovias-ciclofaixas-e-ciclorrotas-solicitar-manutencao-da-sinalizacao-e-pintura.gpkg,78
+2020,Trânsito e Transporte,Reativação de um abrigo ou ponto que foi extinto,ponto,resultados/ultimos-6-meses/transito-e-transporte/pontos/reativacao-de-um-abrigo-ou-ponto-que-foi-extinto.gpkg,45
+2020,Trânsito e Transporte,Implantação de abrigo ou ponto de ônibus,ponto,resultados/ultimos-6-meses/transito-e-transporte/pontos/implantacao-de-abrigo-ou-ponto-de-onibus.gpkg,296
+2020,Trânsito e Transporte,Sinalização horizontal apagada (pintura de solo) – Solicitar repintura,ponto,resultados/ultimos-6-meses/transito-e-transporte/pontos/sinalizacao-horizontal-apagada-pintura-de-solo-solicitar-repintura.gpkg,921
+2020,Trânsito e Transporte,Ônibus - Manutenção do veículo em geral,ponto,resultados/ultimos-6-meses/transito-e-transporte/pontos/onibus-manutencao-do-veiculo-em-geral.gpkg,260
+2020,Trânsito e Transporte,Fiscalização de veículo estacionado em local proibido,ponto,resultados/ultimos-6-meses/transito-e-transporte/pontos/fiscalizacao-de-veiculo-estacionado-em-local-proibido.gpkg,2005
+2020,Trânsito e Transporte,Reclamação de problemas no olho vivo,ponto,resultados/ultimos-6-meses/transito-e-transporte/pontos/reclamacao-de-problemas-no-olho-vivo.gpkg,22
+2020,Trânsito e Transporte,"Manutenção, conserto e limpeza de ponto de ônibus",ponto,resultados/ultimos-6-meses/transito-e-transporte/pontos/manutencao-conserto-e-limpeza-de-ponto-de-onibus.gpkg,244
+2020,Trânsito e Transporte,Manutenção de placas de trânsito,ponto,resultados/ultimos-6-meses/transito-e-transporte/pontos/manutencao-de-placas-de-transito.gpkg,941
+2020,Trânsito e Transporte,Remanejamento de ponto de ônibus,ponto,resultados/ultimos-6-meses/transito-e-transporte/pontos/remanejamento-de-ponto-de-onibus.gpkg,276
+2020,Trânsito e Transporte,Reimplantação ou substituição de um ponto de ônibus do modelo antigo por um equipamento do modelo novo,ponto,resultados/ultimos-6-meses/transito-e-transporte/pontos/reimplantacao-ou-substituicao-de-um-ponto-de-onibus-do-modelo-antigo-por-um-equipamento-do-modelo-novo.gpkg,99
+2020,Trânsito e Transporte,Ônibus - Denúncia de alteração de itinerário ou ponto inicial/final,ponto,resultados/ultimos-6-meses/transito-e-transporte/pontos/onibus-denuncia-de-alteracao-de-itinerario-ou-ponto-inicial-final.gpkg,210
+2020,Trânsito e Transporte,SPTrans - Sugestão,ponto,resultados/ultimos-6-meses/transito-e-transporte/pontos/sptrans-sugestao.gpkg,870
+2020,Trânsito e Transporte,Ciclofaixas de lazer - Solicitar avaliação,ponto,resultados/ultimos-6-meses/transito-e-transporte/pontos/ciclofaixas-de-lazer-solicitar-avaliacao.gpkg,12
+2020,Trânsito e Transporte,Ônibus - Reclamação de veículo com superlotação,ponto,resultados/ultimos-6-meses/transito-e-transporte/pontos/onibus-reclamacao-de-veiculo-com-superlotacao.gpkg,428
+2020,Trânsito e Transporte,Ônibus - Alteração de itinerário ou ponto inicial/final,ponto,resultados/ultimos-6-meses/transito-e-transporte/pontos/onibus-alteracao-de-itinerario-ou-ponto-inicial-final.gpkg,212
+2020,Trânsito e Transporte,Reclamação de falta de limpeza de terminais de ônibus,ponto,resultados/ultimos-6-meses/transito-e-transporte/pontos/reclamacao-de-falta-de-limpeza-de-terminais-de-onibus.gpkg,34
+2020,Trânsito e Transporte,Criação de partida em horário específico,ponto,resultados/ultimos-6-meses/transito-e-transporte/pontos/criacao-de-partida-em-horario-especifico.gpkg,14
+2020,Trânsito e Transporte,Ônibus - Reclamação de demora na partida,ponto,resultados/ultimos-6-meses/transito-e-transporte/pontos/onibus-reclamacao-de-demora-na-partida.gpkg,425
+2020,Trânsito e Transporte,Reparo de problemas mecânicos,ponto,resultados/ultimos-6-meses/transito-e-transporte/pontos/reparo-de-problemas-mecanicos.gpkg,35
+2020,Trânsito e Transporte,Limpeza do ônibus,ponto,resultados/ultimos-6-meses/transito-e-transporte/pontos/limpeza-do-onibus.gpkg,141
+2020,Trânsito e Transporte,Reclamação de conduta de motorista do ATENDE,ponto,resultados/ultimos-6-meses/transito-e-transporte/pontos/reclamacao-de-conduta-de-motorista-do-atende.gpkg,17
+2020,Trânsito e Transporte,Reclamação de sinalização inadequada de terminais de ônibus,ponto,resultados/ultimos-6-meses/transito-e-transporte/pontos/reclamacao-de-sinalizacao-inadequada-de-terminais-de-onibus.gpkg,17
+2020,Trânsito e Transporte,Reclamação de filas e tumulto em terminais de ônibus,ponto,resultados/ultimos-6-meses/transito-e-transporte/pontos/reclamacao-de-filas-e-tumulto-em-terminais-de-onibus.gpkg,124
+2020,Trânsito e Transporte,Denúncia de veículo clandestino ou não credenciado,ponto,resultados/ultimos-6-meses/transito-e-transporte/pontos/denuncia-de-veiculo-clandestino-ou-nao-credenciado.gpkg,11
+2020,Trânsito e Transporte,Criação/reativação de linha de ônibus,ponto,resultados/ultimos-6-meses/transito-e-transporte/pontos/criacao-reativacao-de-linha-de-onibus.gpkg,294
+2020,Trânsito e Transporte,Reclamação de falta de comunicado nos ônibus,ponto,resultados/ultimos-6-meses/transito-e-transporte/pontos/reclamacao-de-falta-de-comunicado-nos-onibus.gpkg,15
+2020,Trânsito e Transporte,Reparo de catraca eletronica/ validador com falha,ponto,resultados/ultimos-6-meses/transito-e-transporte/pontos/reparo-de-catraca-eletronica-validador-com-falha.gpkg,37
+2020,Trânsito e Transporte,Elogio à empresa de ônibus,ponto,resultados/ultimos-6-meses/transito-e-transporte/pontos/elogio-a-empresa-de-onibus.gpkg,16
+2020,Trânsito e Transporte,Inclusão de veículo adaptado na linha,ponto,resultados/ultimos-6-meses/transito-e-transporte/pontos/inclusao-de-veiculo-adaptado-na-linha.gpkg,16
+2020,Trânsito e Transporte,Reclamação de descumprimento de horário de veículos adaptados,ponto,resultados/ultimos-6-meses/transito-e-transporte/pontos/reclamacao-de-descumprimento-de-horario-de-veiculos-adaptados.gpkg,30
+2020,Trânsito e Transporte,"Ciclovias, ciclofaixas e ciclorrotas - Sugerir implantação",ponto,resultados/ultimos-6-meses/transito-e-transporte/pontos/ciclovias-ciclofaixas-e-ciclorrotas-sugerir-implantacao.gpkg,69
+2020,Trânsito e Transporte,"Ciclovias, ciclofaixas e ciclorrotas - Solicitar avaliação da infraestrutura",ponto,resultados/ultimos-6-meses/transito-e-transporte/pontos/ciclovias-ciclofaixas-e-ciclorrotas-solicitar-avaliacao-da-infraestrutura.gpkg,19
+2020,Trânsito e Transporte,Painel de mensagens variáveis (PMV),ponto,resultados/ultimos-6-meses/transito-e-transporte/pontos/painel-de-mensagens-variaveis-pmv.gpkg,6
+2020,Trânsito e Transporte,Olho Vivo - Sugestão e elogio,ponto,resultados/ultimos-6-meses/transito-e-transporte/pontos/olho-vivo-sugestao-e-elogio.gpkg,15
+2020,Trânsito e Transporte,ATENDE - Comunicação sobre colisão de veículo do ATENDE,ponto,resultados/ultimos-6-meses/transito-e-transporte/pontos/atende-comunicacao-sobre-colisao-de-veiculo-do-atende.gpkg,3
+2020,Rua e bairro,Tapa-buraco,ponto,resultados/ultimos-6-meses/rua-e-bairro/pontos/tapa-buraco.gpkg,41687
+2020,Rua e bairro,"Solicitar limpeza de bueiros, boca de lobo e poços de visita",ponto,resultados/ultimos-6-meses/rua-e-bairro/pontos/solicitar-limpeza-de-bueiros-boca-de-lobo-e-pocos-de-visita.gpkg,7558
+2020,Rua e bairro,Capinação em guias e sarjetas,ponto,resultados/ultimos-6-meses/rua-e-bairro/pontos/capinacao-em-guias-e-sarjetas.gpkg,4522
+2020,Rua e bairro,(antigo) Reformar galerias de águas de chuvas (pluviais),ponto,resultados/ultimos-6-meses/rua-e-bairro/pontos/antigo-reformar-galerias-de-aguas-de-chuvas-pluviais.gpkg,653
+2020,Rua e bairro,Tapa-buraco em faixa exclusiva ou corredor de ônibus,ponto,resultados/ultimos-6-meses/rua-e-bairro/pontos/tapa-buraco-em-faixa-exclusiva-ou-corredor-de-onibus.gpkg,420
+2020,Rua e bairro,Pintura de guias e postes,ponto,resultados/ultimos-6-meses/rua-e-bairro/pontos/pintura-de-guias-e-postes.gpkg,523
+2020,Rua e bairro,Vistoria e reparo de pontes e viadutos,ponto,resultados/ultimos-6-meses/rua-e-bairro/pontos/vistoria-e-reparo-de-pontes-e-viadutos.gpkg,115
+2020,Rua e bairro,Reparo e manutenção de relógios de rua,ponto,resultados/ultimos-6-meses/rua-e-bairro/pontos/reparo-e-manutencao-de-relogios-de-rua.gpkg,14
+2020,Lixo e limpeza,Remoção de entulho em via pública,ponto,resultados/ultimos-6-meses/lixo-e-limpeza/pontos/remocao-de-entulho-em-via-publica.gpkg,12941
+2020,Lixo e limpeza,Remoção de grandes objetos em vias públicas,ponto,resultados/ultimos-6-meses/lixo-e-limpeza/pontos/remocao-de-grandes-objetos-em-vias-publicas.gpkg,21676
+2020,Lixo e limpeza,Reclamação de falta de limpeza de ruas após a feira,ponto,resultados/ultimos-6-meses/lixo-e-limpeza/pontos/reclamacao-de-falta-de-limpeza-de-ruas-apos-a-feira.gpkg,176
+2020,Lixo e limpeza,Reclamação de falta de varrição,ponto,resultados/ultimos-6-meses/lixo-e-limpeza/pontos/reclamacao-de-falta-de-varricao.gpkg,7723
+2020,Lixo e limpeza,Limpeza e conservação de monumentos públicos,ponto,resultados/ultimos-6-meses/lixo-e-limpeza/pontos/limpeza-e-conservacao-de-monumentos-publicos.gpkg,87
+2020,Lixo e limpeza,Reclamações sobre coleta de lixo domiciliar,ponto,resultados/ultimos-6-meses/lixo-e-limpeza/pontos/reclamacoes-sobre-coleta-de-lixo-domiciliar.gpkg,2239
+2020,Lixo e limpeza,Instalação de contêiner para coleta seletiva,ponto,resultados/ultimos-6-meses/lixo-e-limpeza/pontos/instalacao-de-conteiner-para-coleta-seletiva.gpkg,258
+2020,Lixo e limpeza,Instalação e remoção de lixeira,ponto,resultados/ultimos-6-meses/lixo-e-limpeza/pontos/instalacao-e-remocao-de-lixeira.gpkg,3788
+2020,Lixo e limpeza,Reclamação de não remoção dos sacos de varrição,ponto,resultados/ultimos-6-meses/lixo-e-limpeza/pontos/reclamacao-de-nao-remocao-dos-sacos-de-varricao.gpkg,420
+2020,Lixo e limpeza,Reclamações sobre coleta de resíduos de serviços de saúde,ponto,resultados/ultimos-6-meses/lixo-e-limpeza/pontos/reclamacoes-sobre-coleta-de-residuos-de-servicos-de-saude.gpkg,435
+2020,Lixo e limpeza,Denúncia de má conduta dos funcionários (motoristas /coletores),ponto,resultados/ultimos-6-meses/lixo-e-limpeza/pontos/denuncia-de-ma-conduta-dos-funcionarios-motoristas-coletores.gpkg,192
+2020,Lixo e limpeza,Reclamações sobre coleta seletiva,ponto,resultados/ultimos-6-meses/lixo-e-limpeza/pontos/reclamacoes-sobre-coleta-seletiva.gpkg,606
+2020,Lixo e limpeza,Lavagem especial de locais públicos,ponto,resultados/ultimos-6-meses/lixo-e-limpeza/pontos/lavagem-especial-de-locais-publicos.gpkg,1230
+2020,Lixo e limpeza,Instalação de contêiner para coleta de lixo domiciliar,ponto,resultados/ultimos-6-meses/lixo-e-limpeza/pontos/instalacao-de-conteiner-para-coleta-de-lixo-domiciliar.gpkg,379
+2020,Lixo e limpeza,Cata Bagulho - Reclamação de não retirada de material,ponto,resultados/ultimos-6-meses/lixo-e-limpeza/pontos/cata-bagulho-reclamacao-de-nao-retirada-de-material.gpkg,1628
+2020,Lixo e limpeza,Denúncia de má conduta dos funcionários de limpeza,ponto,resultados/ultimos-6-meses/lixo-e-limpeza/pontos/denuncia-de-ma-conduta-dos-funcionarios-de-limpeza.gpkg,163
+2020,Lixo e limpeza,Limpeza da via pública após enchentes ou eventos,ponto,resultados/ultimos-6-meses/lixo-e-limpeza/pontos/limpeza-da-via-publica-apos-enchentes-ou-eventos.gpkg,175
+2020,Lixo e limpeza,Ausência de coleta do contêiner para coleta seletiva,ponto,resultados/ultimos-6-meses/lixo-e-limpeza/pontos/ausencia-de-coleta-do-conteiner-para-coleta-seletiva.gpkg,60
+2020,Lixo e limpeza,Coleta seletiva - Solicitar manutenção de contêiner,ponto,resultados/ultimos-6-meses/lixo-e-limpeza/pontos/coleta-seletiva-solicitar-manutencao-de-conteiner.gpkg,47
+2020,Lixo e limpeza,Selo de identificação de estabelecimento gerador de resíduos de saúde – 1ª e 2ª via,ponto,resultados/ultimos-6-meses/lixo-e-limpeza/pontos/selo-de-identificacao-de-estabelecimento-gerador-de-residuos-de-saude-1a-e-2a-via.gpkg,141
+2020,Lixo e limpeza,Implantação de coleta porta-porta,ponto,resultados/ultimos-6-meses/lixo-e-limpeza/pontos/implantacao-de-coleta-porta-porta.gpkg,157
+2020,Lixo e limpeza,Remoção de contêiner para coleta de lixo domiciliar,ponto,resultados/ultimos-6-meses/lixo-e-limpeza/pontos/remocao-de-conteiner-para-coleta-de-lixo-domiciliar.gpkg,147
+2020,Lixo e limpeza,Conserto de lixeira,ponto,resultados/ultimos-6-meses/lixo-e-limpeza/pontos/conserto-de-lixeira.gpkg,98
+2020,Lixo e limpeza,Manutenção de contêiner de resíduos do serviço de saúde,ponto,resultados/ultimos-6-meses/lixo-e-limpeza/pontos/manutencao-de-conteiner-de-residuos-do-servico-de-saude.gpkg,7
+2020,Lixo e limpeza,Remoção do contêiner de coleta seletiva,ponto,resultados/ultimos-6-meses/lixo-e-limpeza/pontos/remocao-do-conteiner-de-coleta-seletiva.gpkg,42
+2020,Lixo e limpeza,Reclamação de falta de lavagem de calçadões,ponto,resultados/ultimos-6-meses/lixo-e-limpeza/pontos/reclamacao-de-falta-de-lavagem-de-calcadoes.gpkg,87
+2020,Animais,Avisar  sobre animal encontrado com Registro Geral do Animal (RGA),ponto,resultados/ultimos-6-meses/animais/pontos/avisar-sobre-animal-encontrado-com-registro-geral-do-animal-rga.gpkg,67
+2020,Animais,Vistoria de colmeia/vespeiro instalado,ponto,resultados/ultimos-6-meses/animais/pontos/vistoria-de-colmeia-vespeiro-instalado.gpkg,2883
+2020,Animais,Morcego - Reclamar sobre local com morcego,ponto,resultados/ultimos-6-meses/animais/pontos/morcego-reclamar-sobre-local-com-morcego.gpkg,650
+2020,Animais,Avisar sobre animal agressor em vias públicas,ponto,resultados/ultimos-6-meses/animais/pontos/avisar-sobre-animal-agressor-em-vias-publicas.gpkg,455
+2020,Animais,Avaliação de animal em sofrimento sem proprietário para eutanásia (morte sem dor),ponto,resultados/ultimos-6-meses/animais/pontos/avaliacao-de-animal-em-sofrimento-sem-proprietario-para-eutanasia-morte-sem-dor.gpkg,506
+2020,Animais,Remoção de animal morto em via pública,ponto,resultados/ultimos-6-meses/animais/pontos/remocao-de-animal-morto-em-via-publica.gpkg,1246
+2020,Animais,Solicitar avaliação de local com pernilongo/mosquito,ponto,resultados/ultimos-6-meses/animais/pontos/solicitar-avaliacao-de-local-com-pernilongo-mosquito.gpkg,2211
+2020,Animais,Animal de grande porte solto - Solicitar remoção,ponto,resultados/ultimos-6-meses/animais/pontos/animal-de-grande-porte-solto-solicitar-remocao.gpkg,65
+2020,Urgência,Queda de árvore,ponto,resultados/ultimos-6-meses/urgencia/pontos/queda-de-arvore.gpkg,947
+2020,Urgência,Queda de galho,ponto,resultados/ultimos-6-meses/urgencia/pontos/queda-de-galho.gpkg,574
+2020,Urgência,Erosão,ponto,resultados/ultimos-6-meses/urgencia/pontos/erosao.gpkg,147
+2020,Urgência,[Solicitado pela Defesa Civil - uso interno] Apoio a órgãos públicos,ponto,resultados/ultimos-6-meses/urgencia/pontos/solicitado-pela-defesa-civil-uso-interno-apoio-a-orgaos-publicos.gpkg,141
+2020,Urgência,Rompimento de galeria de águas pluviais,ponto,resultados/ultimos-6-meses/urgencia/pontos/rompimento-de-galeria-de-aguas-pluviais.gpkg,47
+2020,Urgência,Explosão,ponto,resultados/ultimos-6-meses/urgencia/pontos/explosao.gpkg,4
+2020,Bilhete Único,Comunicação de erro em cobrança de integração (ônibus e metrô ou trem),ponto,resultados/ultimos-6-meses/bilhete-unico/pontos/comunicacao-de-erro-em-cobranca-de-integracao-onibus-e-metro-ou-trem.gpkg,1719
+2020,Bilhete Único,Bilhete Único - Falha na recarga,ponto,resultados/ultimos-6-meses/bilhete-unico/pontos/bilhete-unico-falha-na-recarga.gpkg,229
+2020,Bilhete Único,Comunicação de problema em posto de recarga,ponto,resultados/ultimos-6-meses/bilhete-unico/pontos/comunicacao-de-problema-em-posto-de-recarga.gpkg,174
+2020,Bilhete Único,Comunicação de ponto de venda de crédito clandestino,ponto,resultados/ultimos-6-meses/bilhete-unico/pontos/comunicacao-de-ponto-de-venda-de-credito-clandestino.gpkg,21
+2020,Meio Ambiente,Sugerir obras de drenagem em córregos,ponto,resultados/ultimos-6-meses/meio-ambiente/pontos/sugerir-obras-de-drenagem-em-corregos.gpkg,88
