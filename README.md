@@ -23,6 +23,9 @@ Existe ainda um outro grande desafio que não devemos e nem podemos deixar para 
 
 Os resultados obtidos neste geoprocessamento vão ficar disponíveis na pasta `resultados` em formato GeoPackage em subpastas por Ano, Tema e eventualmente tipo de geometria gerada (Polígono ou Ponto), onde o nome do arquivo é composto pelo serviço. 
 
+Um exemplo de análise que pode ser feita com os dados compilados pode ser visualizado no GIF animado abaixo com as solicitações de vistoria de comlméia ou vespeiro recebidas pelo atendimento do AP 156 de 2015 até 2020. O resultado foi obtido com as camadas processadas e publicadas aqui neste repositório e o programa QGis foi utilizado para processar a análise espaço-temporal e o arquivo pode ser baixado na pasta `exemplos-analises`
+
+![](exemplos-analises/imagens/vistoria_colmeias_vespeiros_SP156.gif)
 ## Convenções 
 
 Definimos que a pasta download vai conter os arquivos que podem ser baixados nos links do arquivo `scripts\links-download.txt`, ou ainda se preferir fazer o download de maneira automática pode executar o script `scripts/download-bases.sh`
