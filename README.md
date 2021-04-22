@@ -1,6 +1,6 @@
 # Geo SP156
 
-Repositório dedicado a análise espacial dos atendimentos realizados pela central 156 da Prefeitura do Município de São Paulo, que podem ser obtidos atravéz de download no [Portal de Dados Abertos](http://dados.prefeitura.sp.gov.br/pt_PT/dataset/dados-do-sp156)
+Repositório dedicado a análise espacial dos atendimentos realizados pela central 156 da Prefeitura do Município de São Paulo, que podem ser obtidos atravéz de download no [Portal de Dados Abertos](http://dados.prefeitura.sp.gov.br/dataset/dados-do-sp156)
 
 ## Motivação
 
