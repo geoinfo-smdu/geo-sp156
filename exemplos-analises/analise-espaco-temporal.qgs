@@ -1,5 +1,5 @@
 <!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
-<qgis projectname="" saveUser="fernando" saveDateTime="2021-03-31T12:16:19" version="3.18.1-Zürich" saveUserFull="Fernando Gomes">
+<qgis projectname="" saveUser="fernando" saveDateTime="2021-03-31T13:21:21" version="3.18.1-Zürich" saveUserFull="Fernando Gomes">
   <homePath path=""/>
   <title></title>
   <autotransaction active="0"/>
@@ -1437,6 +1437,7 @@ def my_form_open(diálogo, camada, feição):
 </TextFormat>
     </ScaleBar>
     <SemiAutomaticClassificationPlugin>
+      <SCP_DownloadTable type="QString"></SCP_DownloadTable>
       <bandSetsList type="QString">[['Yes', 0, 0, [], [], 'band number', [[], []], 'Band set 0', '', '']]</bandSetsList>
       <bndSetNumber type="QString">-1</bndSetNumber>
     </SemiAutomaticClassificationPlugin>
@@ -1446,7 +1447,7 @@ def my_form_open(diálogo, camada, feição):
     <TemporalControllerWidget>
       <EndDateTime type="QString">2020-10-30T22:18:33.000Z</EndDateTime>
       <NavigationMode type="int">1</NavigationMode>
-      <StartDateTime type="QString">2015-01-01T10:13:53.000Z</StartDateTime>
+      <StartDateTime type="QString">2014-12-01T10:13:53.000Z</StartDateTime>
     </TemporalControllerWidget>
     <TitleLabel>
       <BackgroundColor type="QString">0,0,0,255</BackgroundColor>
